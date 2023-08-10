@@ -2,7 +2,7 @@
 
 Book Name : 
 Date Started : 05-08-2023
-Date Finished : 
+Date Finished : 08-08-2023
 
 
 
@@ -26,7 +26,7 @@ Sections :
 + [[Celestial Mechanics#^84c18d|Elliptical Orbit]]
 + [[Celestial Mechanics#^a555d5|Newtonian Mechanics]] ^cec6ca
 + [[Celestial Mechanics#^6389de|Keplar's Law Derived]]
-+ [[Celestial Mechanics#^5abb58|The Virial Theorem]]
++ [[Celestial Mechanics#^5abb58|The Virial Theorem]] ^866cf1
 
 <hr>
 
@@ -168,8 +168,54 @@ $$L = \mu \vec{r} \times \vec{v} = r \times p $$
 
 ![[Pasted image 20230808142704.png|20]]  The total orbital angular momentum equals the angular momentum of the reduced mass only.
 
+<hr>
+
+##### <span  style = "color:Coral">Keplar's First law derived</span>
+![[keplars 1st law 1.pdf]]
+
+<b style = "color:red">Conic Section</b> - The path of a reduced mass under the infulence of gravity (or any other inverse square law) of another massive body is a conic section.
+
+> For the case of closed of closed planetrary orbits, the total orbital angular momentum is given as $$L = \mu \sqrt{G M a(1- e^2)}$$ and obviously is maximum for $e=0$, i.e. circular motion. 
+
+<hr>
+
+##### <span  style = "color:Coral">Keplar's Second law derived</span>
+<figure>
+<center>
+<img src="https://haygot.s3.amazonaws.com/questions/1883854_1821059_ans_dd25b3625dc64f69b8af18bdca5e170c.jpg" alt="" style="width:80%">
+<figcaption align = "center">
+<b></b>
+</figcaption>
+</center>
+</figure>
+
+> Further, the energy of a binary orbit system is also to be noted that depend on the semimajor axis $a$ and not on anything else. (Foci are located on semi major axis of the ellipse) $$E = -G \frac{M \mu}{2a} = -G \frac{m_1 m_2}{2a}$$ $$E = \frac{1}{2} \langle U \rangle$$ where $\langle U \rangle$ represents the average over one orbital period and also $\langle U \rangle = - G \frac{M \mu}{a}$ 
+
+<b style = "color:red">Relative velocity of $m_1$ and $m_2$</b>
+A useful expression for the velocity of the reduced mass (or the relative velocity of the both bodies ) is $$v^2 = G (m_1 + m_2)\left( \frac{2}{r} - \frac{1}{a} \right)$$
+
+<hr>
+
+##### <span  style = "color:Coral">Keplar's Third law derived</span>
+<figure>
+<center>
+<img src="https://www.researchgate.net/publication/250082824/figure/fig6/AS:668759064842246@1536455994347/Derivation-tree-for-Keplers-third-law-from-the-subtree-in-Figure-3.ppm" alt="" style="width:80%">
+<figcaption align = "center">
+<b>Keplar's Third Law Derivation</b>
+</figcaption>
+</center>
+</figure>
+This is the general form of Kepler’s third law. Not only did Newton demonstrate the re- lationship between the semimajor axis of an elliptical orbit and the orbital period, he also found a term not discovered empirically by Kepler, the square of the orbital period is in- versely proportional to the total mass of the system.
+
 ## <span  style = "color:AquaMarine">The Virial Theorem</span>
 
 ^5abb58
+
+Earlier we saw that the total energy of the binary orbit system was $E = \frac{1}{2} \langle \text{U} \rangle$. This means that the total energy of the system is necessarily negative i.e system is bound. 
+For gravitationally bound systems in equilibrium, it can be shown that the total energy is always one-half of the time-averaged potential energy; this is known as the <b style = "color:magenta">Virial Theorem</b>
+
+<< skipping the proof of the Theorem >> 
+
+
 
 
