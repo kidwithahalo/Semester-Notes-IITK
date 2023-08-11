@@ -107,6 +107,28 @@ $$L_{moving} = L_{rest}{\sqrt{1 - \frac{u^2}{c^2}}}$$
 
 ^fcba5c
 
+According to the Principle of Relativity, if momentum is conserved in one inertial frame of reference, then it must be conserved in all inertial frames.
+Further, the definition of the relativistic momentum equation becomes
+$$p = \frac{mv}{\sqrt{1 - v^2/c^2}} = \gamma m v$$
+where $\gamma$ is called Lorentz Factor 
+> Mass is invariant under Lorentz transformation so it does not make much sense to define a term as 'rest mass'. Mass of a particle does not increase with increasing speed but its momentum sure approaches infinity when $v \longrightarrow c$
+
+#### <span  style = "color:Tomato">The Derivation of $E = mc^2$</span>
+![[Bradley Dale.pdf]]
+The second term in the above formulae is the energy that the mass have when it is a $v = 0$, or <b style = "color:RebeccaPurple">rest energy</b>
+$$E_{rest} = mc^2$$
+Above formulae (in pdf) gives the total energy of the particle and thus the Kinetic Energy of the particle is $\text{K.E = Total Energy - Rest Energy}$
+Further, see this formula 
+$$E^2 = p^2c^2 + m^2c^4$$ where 
++ $E$ = Total Energy of the system
++ $p$ = magnitude of momentum
++ $mc^2$ = rest energy
+>The interesting thing is that this equation is valid for particles that have no mass i.e. photons. 
+
+
+
+
+
 
 
 

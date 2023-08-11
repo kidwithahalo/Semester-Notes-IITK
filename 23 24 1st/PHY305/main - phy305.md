@@ -7,6 +7,8 @@ Instructed by Prof. Gopal Hazra
 ### <span  style = "color:AquaMarine">Lecture Notes</span>
 
 [[Lecture 1 - phy305]]
+[[Lecture 2 - phy305]]
+[[Lecture 3 - phy305]]
 
 
 
