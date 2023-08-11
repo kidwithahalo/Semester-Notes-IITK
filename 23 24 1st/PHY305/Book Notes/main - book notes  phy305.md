@@ -1,6 +1,7 @@
 
 I am following the book 
 + [[Bradley W. Carroll, Dale A. Ostlie - An Introduction to Modern Astrophysics]]
++ [[Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics)]]
 
 <hr>
 
