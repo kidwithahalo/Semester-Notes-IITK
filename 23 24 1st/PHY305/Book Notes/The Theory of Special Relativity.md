@@ -125,6 +125,10 @@ $$E^2 = p^2c^2 + m^2c^4$$ where
 + $mc^2$ = rest energy
 >The interesting thing is that this equation is valid for particles that have no mass i.e. photons. 
 
+Likewise , the relativistic momentum equation becomes same $p = \gamma mv = \frac{mv}{v}$
+
+
+
 
 
 
