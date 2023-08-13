@@ -6,6 +6,7 @@
       {
         "id": "43a3ca97016e93ca",
         "type": "tabs",
+        "dimension": 54.22636103151862,
         "children": [
           {
             "id": "3678a5ae7e290694",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/Lecture 1 - 213.md",
+                "file": "Lecture 6 - 213.md",
                 "mode": "preview",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "10df706171c24bb0",
         "type": "tabs",
+        "dimension": 45.77363896848137,
         "children": [
           {
             "id": "3dc50f3fb0584c00",
@@ -38,12 +40,12 @@
             }
           },
           {
-            "id": "ead497fed558bc26",
+            "id": "0e2cfca5feb6999d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/Lecture 1 - 213.md",
+                "file": "Lecture 6 - 213.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/Lecture 1 - 213.md",
+                "file": "Lecture 6 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/Lecture 1 - 213.md",
+                "file": "Lecture 6 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/Lecture 1 - 213.md"
+                "file": "Lecture 6 - 213.md"
               }
             }
           }
@@ -181,6 +183,9 @@
   "active": "3678a5ae7e290694",
   "lastOpenFiles": [
     "ESO213/main - eso213.md",
+    "Lecture 6 - 213.md",
+    "Lecture 5 - 213.md",
+    "Lecture 4 - 213.md",
     "ESO213/Lecture 1 - 213.md",
     "PHY305/Book Notes/Stars - Basic Observation.md",
     "PHY305/Book Notes/Introduction - Dan Maoz.md",
