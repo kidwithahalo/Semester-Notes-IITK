@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stars - Basic Observation.md",
-                "mode": "source",
+                "file": "ESO213/Lecture 1 - 213.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -26,36 +26,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49c662a9c3d65b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHY305/Book Notes/Bradley W. Carroll, Dale A. Ostlie - An Introduction to Modern Astrophysics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3dc50f3fb0584c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stars - Basic Observation.md",
+                "file": "ESO213/main - eso213.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "f7cba3530c73a3d2",
+            "id": "ead497fed558bc26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction - Dan Maoz.md",
+                "file": "ESO213/Lecture 1 - 213.md",
                 "mode": "source",
                 "source": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stars - Basic Observation.md",
+                "file": "ESO213/Lecture 1 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stars - Basic Observation.md",
+                "file": "ESO213/Lecture 1 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stars - Basic Observation.md"
+                "file": "ESO213/Lecture 1 - 213.md"
               }
             }
           }
@@ -190,12 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dc50f3fb0584c00",
+  "active": "3678a5ae7e290694",
   "lastOpenFiles": [
-    "Introduction - Dan Maoz.md",
-    "Stars - Basic Observation.md",
-    "Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
-    "Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics)-Princeton University Press (2007).pdf",
+    "ESO213/main - eso213.md",
+    "ESO213/Lecture 1 - 213.md",
+    "PHY305/Book Notes/Stars - Basic Observation.md",
+    "PHY305/Book Notes/Introduction - Dan Maoz.md",
+    "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
+    "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics)-Princeton University Press (2007).pdf",
     "PHY305/Book Notes/main - book notes  phy305.md",
     "PHY305/Book Notes/Bradley W. Carroll, Dale A. Ostlie - An Introduction to Modern Astrophysics.md",
     "PHY305/Book Notes/The Theory of Special Relativity.md"
