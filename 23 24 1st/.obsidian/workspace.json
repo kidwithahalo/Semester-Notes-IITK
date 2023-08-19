@@ -6,6 +6,7 @@
       {
         "id": "10df706171c24bb0",
         "type": "tabs",
+        "dimension": 52.645985401459846,
         "children": [
           {
             "id": "0e2cfca5feb6999d",
@@ -37,6 +38,7 @@
       {
         "id": "02b3a684fbb4c574",
         "type": "tabs",
+        "dimension": 47.35401459854015,
         "children": [
           {
             "id": "69468d84c3552864",
@@ -100,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16c874b37f96db9c",
@@ -179,6 +182,7 @@
   },
   "active": "3caf89993a980f82",
   "lastOpenFiles": [
+    "ESO213/Breaking of Minerals.png",
     "ESO213/main - eso213.md",
     "ESO213/Lecture 9 - 213.md",
     "ESO213/Lecture 8 - 213.md",

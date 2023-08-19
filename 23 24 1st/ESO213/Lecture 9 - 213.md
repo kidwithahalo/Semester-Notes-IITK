@@ -74,3 +74,5 @@ Date Finished :
 + Fracture
 + Parting 
 + Cleaving
+
+![[Breaking of Minerals.png]]
