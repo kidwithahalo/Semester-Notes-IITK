@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 9 - 213.md",
+                "file": "ESO213/Lecture 9 - 213.md",
                 "mode": "preview",
                 "source": true
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 9 - 213.md",
+                "file": "ESO213/Lecture 9 - 213.md",
                 "mode": "source",
                 "source": true
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16c874b37f96db9c",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 9 - 213.md",
+                "file": "ESO213/Lecture 9 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 9 - 213.md",
+                "file": "ESO213/Lecture 9 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 9 - 213.md"
+                "file": "ESO213/Lecture 9 - 213.md"
               }
             }
           }
@@ -178,12 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f229bfd612ee7a03",
+  "active": "3caf89993a980f82",
   "lastOpenFiles": [
     "ESO213/main - eso213.md",
-    "Lecture 9 - 213.md",
-    "Lecture 8 - 213.md",
-    "Lecture 7 - 213.md",
+    "ESO213/Lecture 9 - 213.md",
+    "ESO213/Lecture 8 - 213.md",
+    "ESO213/Lecture 7 - 213.md",
     "ESO213/Lecture 6 - 213.md",
     "ESO213/Lecture 5 - 213.md",
     "ESO213/Lecture 4 - 213.md",
