@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY305/Book Notes/The Continuous Spectrum of Light.md",
+                "file": "PHY305/main - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY305/Book Notes/The Continuous Spectrum of Light.md",
+                "file": "PHY305/main - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHY305/Book Notes/The Continuous Spectrum of Light.md"
+                "file": "PHY305/main - phy305.md"
               }
             }
           }
@@ -177,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3869d28f1d635b5",
+  "active": "dc35fa95b24e754c",
   "lastOpenFiles": [
+    "PHY305/Book Notes/The Continuous Spectrum of Light.md",
     "PHY305/Book Notes/Bradley W. Carroll, Dale A. Ostlie - An Introduction to Modern Astrophysics.md",
     "PHY305/Book Notes/main - book notes  phy305.md",
     "PHY305/main - phy305.md",
@@ -187,7 +188,6 @@
     "PHY305/Book Notes/The Celestial Sphere.md",
     "PHY305/lecture notes - phy305/Lecture 2 - phy305.md",
     "PHY305/lecture notes - phy305/Lecture 1 - phy305.md",
-    "PHY305/Book Notes/The Continuous Spectrum of Light.md",
     "ESO213/Lecture 9 - 213.md",
     "ESO213/Breaking of Minerals.png",
     "ESO213/main - eso213.md",
