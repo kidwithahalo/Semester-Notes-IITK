@@ -25,3 +25,4 @@ All the layouts of the book notes are in the main file.
 ### <span  style = "color:AquaMarine">Problems to ask </span>
 - [ ] 1.8 part a - Dale
 - [ ] Area of an ellipse
+- [ ] 
