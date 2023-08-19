@@ -19,7 +19,7 @@ Date Finished : 05-08-2023
 ### <span  style = "color:dodgerblue">Questions to track </span>
 + Greatest Eastern Elongation
 + Greatest Western Elongation
-+ Synodic and Sidereal period #todo 
++ Synodic and Sidereal period #todo  $\rightarrow$  [[The Celestial Sphere#^5db9a7|Answers]]
 + Equinoxes and Solstices
 
 
@@ -155,3 +155,37 @@ The law of cosines and sines for spherical trigonometry(left). A spherical trian
 
 <hr>
 
+## <span  style = "color:PaleGreen">ToDo Revision </span>
+
+#### <span  style = "color:Tomato">Synodic  and Sidereal Period </span>
+
+^5db9a7
+
+###### <span  style = "color:Orchid">Synodic Periods</span>
+It is the the time required for a body within the solar system, such as a planet, the Moon, or an artificial Earth satellite, to return to the same or approximately the same position relative to the Sun as seen by an observer on the Earth
+
+
+###### <span  style = "color:Orchid">Sidereal Periods</span>
+It is the time required for a celestial body within the solar system to complete one revolution with respect to the fixed stars—i.e., as observed from some fixed point outside the system.
+
+<figure>
+<center>
+<img src="https://biology-forums.com/gallery/39/671907_01_12_18_10_51_54.png" alt="" style="width:100%">
+<figcaption align = "center">
+<b>Synodic and Sidereal Periods</b>
+</figcaption>
+</center>
+</figure>
+
+Formula of the synodic and sidereal is given by 
+$$ \frac{1}{S} = \left\{
+  \begin{array}{lr}
+    \frac{1}{P}- \frac{1}{P_{\bigoplus}}:\text{(inferior)}\\
+    \frac{1}{P_{\bigoplus}}- \frac{1}{P}: \text{(superior)}
+  \end{array}
+\right.
+$$
+where 
++ $P_{\bigoplus}$ is the sidereal period of the Earth = 365.25 days
++ $S$ is the synodic period
++ $P$ is the sidereal period 
