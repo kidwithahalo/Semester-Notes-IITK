@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY305/Book Notes/The Continuous Spectrum of Light.md",
+                "file": "PHY305/main - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16c874b37f96db9c",
@@ -176,12 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc35fa95b24e754c",
+  "active": "f3869d28f1d635b5",
   "lastOpenFiles": [
-    "PHY305/Book Notes/The Continuous Spectrum of Light.md",
-    "PHY305/Book Notes/Bradley W. Carroll, Dale A. Ostlie - An Introduction to Modern Astrophysics.md",
     "PHY305/Book Notes/main - book notes  phy305.md",
+    "PHY305/Book Notes/Bradley W. Carroll, Dale A. Ostlie - An Introduction to Modern Astrophysics.md",
     "PHY305/main - phy305.md",
+    "PHY305/Book Notes/The Continuous Spectrum of Light.md",
     "Glossary - Sem.md",
     "PHY305/Book Notes/Celestial Mechanics.md",
     "PHY305/Book Notes/The Celestial Sphere.md",

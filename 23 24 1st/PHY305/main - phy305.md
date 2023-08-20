@@ -26,3 +26,8 @@ All the layouts of the book notes are in the main file.
 - [ ] 1.8 part a - Dale
 - [ ] Area of an ellipse
 - [ ] 
+
+
+
+<hr>
+
