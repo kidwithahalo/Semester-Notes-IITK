@@ -52,7 +52,7 @@ Definition of retrograde motion was taken for the wandering stars (planets). Bel
 > <b style = "color:red">Wikipedia definition of same</b>
 > Apparent retrograde motion is the apparent motion of a planet in a direction opposite to that of other bodies within its system, as observed from a particular vantage point. Direct motion or prograde motion is motion in the same direction as other bodies
 
-![[PHY305/lecture notes - phy305/Screenshot 2023-08-03 at 1.04.06 PM.png]]
+![[PHY305/transcribed lecture notes - phy305/Screenshot 2023-08-03 at 1.04.06 PM.png]]
 
 + Betelgeuse, the bright star in the constellation of Orion, is visible at 5h 55m 7 24
 + Aldebaran, in the constellation of Taurus, has co-ordinates 4h 36m 16(degree) 31(min) 
