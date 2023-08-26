@@ -4,11 +4,14 @@ Instructed by Prof. Gopal Hazra
 
 ---
 
-### <span  style = "color:AquaMarine">Lecture Notes</span>
+### <span  style = "color:AquaMarine">Lecture Notes by Professor</span>
 
 [[Lecture 1 - phy305]]
 [[Lecture 2 - phy305]]
 [[Lecture 3 - phy305]]
+[[Lecture 4 - phy305]]
+[[Lecture 5 - phy305]]
+[[Lecture 6 - phy305]]
 
 
 

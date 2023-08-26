@@ -33,7 +33,7 @@ Early human noticed that most stars did not seem to change their position with r
 	
 <b style = "color:red">Eudoxus</b>, student of Plato's suggest that an idea that planets occupied its own sphere and that all spheres we are connected through axis oriented at different angles and rotating at various speeds. This idea of complex sphere initially was successful but their production started to deviate when more observational data was obtained. Hipparchus also came by the theory of epicycle that planet rotating in epicycle orbiting on a larger deferent can explain this retrograde motion. But for next 200 years, the idea of planetary motion put forward by the Hipparchus became unsatisfactory and explaining many of the details observation. Ptolemy introduce refinement to the epicycles/deferent <span style = "color:red">still lacks the explanation of observation data. This process of fixing the existing theories let to an increasingly complex theoretical description of observable phenomena.  </span>
 
-![[PHY305/transcribed lecture notes - phy305/Screenshot 2023-08-03 at 1.04.06 PM.png]]
+![[Screenshot 2023-08-03 at 1.04.06 PM 1.png]]
 <figure>
 <center>
 <figcaption align = "center">
