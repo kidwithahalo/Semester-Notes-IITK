@@ -3,7 +3,7 @@
 ```html
 <figure>
 <center>
-<img src="" alt="" style="width:80%">
+<img src="" alt="" style="width:100%">
 <figcaption align = "center">
 <b>Caption</b>
 </figcaption>
@@ -14,16 +14,12 @@
 
 # For side to side image 
 ```html
-<div style="display: flex;">
-  <figure>
-    <img src="path_to_image1.jpg" alt="Image 1" style="width: 50%;">
-    <figcaption>Caption for Image 1</figcaption>
-  </figure>
-  <figure>
-    <img src="path_to_image2.jpg" alt="Image 2" style="width: 50%;">
-    <figcaption>Caption for Image 2</figcaption>
-  </figure>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <!-- Replace 'image1.jpg' and 'image2.jpg' with the paths to your images -->
+  <img src="" alt="Image 1" style="width: 50%;">
+  <img src="" alt="Image 2" style="width: 50%;">
 </div>
+
 ```
 
 
@@ -87,17 +83,32 @@ pie title India and it's Land Distribution
 
 # Text highlight 
 ```html
-<b style = "color:red"></b>
+<b style = "color:RebeccaPurple"></b>
 ```
-
 ```html
-<span  style = "color:dodgerblue">fff</span>
+# <span  style = "color:dodgerblue"></span>
 ```
-# For topic color 
 ```html
-### <span  style = "color:dodgerblue">fff</span>
+## <span  style = "color:PaleGreen"></span>
 ```
-
+```html
+### <span  style = "color:AquaMarine"></span>
+```
+```html
+#### <span  style = "color:Tomato"></span>
+```
+```html
+##### <span  style = "color:SpringGreen"></span>
+```
+```html
+###### <span  style = "color:Orchid"></span>
+```
+```html
+<span  style = "color:Sienna"></span>
+```
+```html
+### <span  style = "color:SteelBlue">Activity Question</span>
+```
 
 # For embedding a page into .md
 ```html
@@ -105,11 +116,56 @@ pie title India and it's Land Distribution
 ```
 
 # For latex equation code 
-```html
+```latex
 $$
     \begin{equation} 
     \tag{1}
 	     m_1 - m_2 = 2.5 \log \frac{l_2}{l_1}  
     \end{equation}
   $$
+```
+### Multiline latex code 
+```latex
+$$
+\begin{aligned}
+\\
+ \\
+ \\
+ \\
+\end{aligned}
+$$
+```
+
+### For piecewise equation
+```latex
+$$
+\begin{equation}
+f(x) = 
+\left\{
+    \begin{array}{lr}
+        x+1, & x>1\\
+        -x, & x\geq0
+    \end{array}
+\right\}
+\end{equation}
+$$
+```
+
+## Fraction in latex
+```latex
+\left( \frac{ }{ }\right)
+```
+#### Angstrom Symbol
+```latex
+\overset{\circ}{\mathbb{A}}
+```
+
+#### Limit Sign
+```latex
+\lim_{ \to 0} \frac{}{}
+```
+
+#### bbox latex
+```latex
+$$\bbox[8px, border: 2px solid red] {}$$
 ```

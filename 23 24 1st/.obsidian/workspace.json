@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
+                "file": "PHY305/main - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -61,21 +61,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "6f86b5417e125ca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
+                "file": "PHY305/main - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
+                "file": "PHY305/main - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md"
+                "file": "PHY305/main - phy305.md"
               }
             }
           }
@@ -208,21 +196,21 @@
     "type": "floating",
     "children": [
       {
-        "id": "57269bfb73e70500",
+        "id": "96aa2d8277255116",
         "type": "window",
         "children": [
           {
-            "id": "7fa7234d2f18f801",
+            "id": "a39a62d96f7f78dc",
             "type": "tabs",
             "children": [
               {
-                "id": "3d5bef81c80ec73a",
+                "id": "de964a15afaee7e4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "ObsidianTEMPLATES/Shortcuts.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   }
                 }
@@ -231,8 +219,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 38,
-        "y": 44,
+        "x": 61,
+        "y": 53,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -242,18 +230,25 @@
   },
   "active": "3caf89993a980f82",
   "lastOpenFiles": [
-    "ObsidianTEMPLATES/Shortcuts.md",
+    "Short course on Elliptical Geometry.md",
+    "PHY305/Book Notes/Short course on Elliptical Geometry.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
     "PHY305/main - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 5 - phy305.md",
+    "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
+    "Screenshot 2023-08-27 at 2.04.16 PM.png",
+    "ObsidianTEMPLATES/Shortcuts.md",
+    "Screenshot 2023-08-27 at 1.32.42 PM.png",
+    "Screenshot 2023-08-27 at 12.07.38 AM.png",
+    "PHY305/attachment/Screenshot 2023-08-26 at 11.50.48 PM.png",
+    "PHY305/attachment/Screenshot 2023-08-26 at 11.42.00 PM.png",
+    "PHY305/attachment/Screenshot 2023-08-26 at 11.41.28 PM.png",
     "PHY305/attachment/Untitled Diagram.drawio 1.svg",
     "PHY305/attachment/Untitled Diagram.drawio.svg",
     "PHY305/attachment/Untitled Diagram.drawio 1.png",
     "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
     "Glossary - Sem.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
     "PHY305/attachment/Untitled Diagram.drawio.png",
-    "PHY305/attachment/Screenshot 2023-08-26 at 1.28.15 PM.png",
     "PHY305/Book Notes/Newtonian Mechanics.md",
     "PHY305/Book Notes/Keplar's Law Derived.md",
     "PHY305/Book Notes/The Virial Theorem.md",
@@ -266,14 +261,11 @@
     "PHY305/Book Notes/Celestial Mechanics.md",
     "PHY305/Book Notes/The Celestial Sphere.md",
     "ESO213/Lecture 9 - 213.md",
-    "ESO213/Breaking of Minerals.png",
     "ESO213/main - eso213.md",
     "ESO213/Lecture 8 - 213.md",
     "ESO213/Lecture 7 - 213.md",
     "ESO213/Lecture 6 - 213.md",
     "ESO213/Lecture 5 - 213.md",
-    "ESO213/Lecture 4 - 213.md",
-    "ESO213/Lecture 1 - 213.md",
     "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics)-Princeton University Press (2007).pdf"
   ]
 }
