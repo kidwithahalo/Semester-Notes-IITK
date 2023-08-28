@@ -16,4 +16,5 @@ Instructor: Prof. Deepak Dhingra
 9. [[Lecture 9 - 213]]
 10. [[Lecture 10 - 213]]
 11. [[Lecture 11 - 213]]
+12. [[Lecture 12 - 213]]
 
