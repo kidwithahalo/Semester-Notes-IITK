@@ -13,44 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/Lecture 10 - 213.md",
+                "file": "ESO213/Lecture 11 - 213.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ]
-      },
-      {
-        "id": "60e1b0d6b68102e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30b1d565fe6dd4ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESO213/main - eso213.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9242dc33d4e1e523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESO213/Lecture 12 - 213.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16c874b37f96db9c",
@@ -116,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/Lecture 10 - 213.md",
+                "file": "ESO213/Lecture 11 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/Lecture 10 - 213.md",
+                "file": "ESO213/Lecture 11 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/Lecture 10 - 213.md"
+                "file": "ESO213/Lecture 11 - 213.md"
               }
             }
           }
@@ -215,18 +185,19 @@
       }
     ]
   },
-  "active": "3caf89993a980f82",
+  "active": "9c2af34da15125b4",
   "lastOpenFiles": [
     "ESO213/main - eso213.md",
+    "ESO213/Lecture 10 - 213.md",
+    "ESO213/Lecture 9 - 213.md",
+    "ESO213/Lecture 7 - 213.md",
     "ESO213/Lecture 12 - 213.md",
     "ObsidianTEMPLATES/Shortcuts.md",
     "ESO213/Lecture 11 - 213.md",
-    "ESO213/Lecture 10 - 213.md",
     "ESO213/Mineral Properties.png",
     "Glossary - Sem.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
     "PHY305/main - phy305.md",
-    "ESO213/Lecture 9 - 213.md",
     "PHY305/transcribed lecture notes - phy305/phy305 lec6.zip",
     "PHY305/transcribed lecture notes - phy305/phy305 lec5.zip",
     "PHY305/transcribed lecture notes - phy305/phy305 lec4.zip",
@@ -261,7 +232,6 @@
     "PHY305/Book Notes/main - book notes  phy305.md",
     "PHY305/Book Notes/The Continuous Spectrum of Light.md",
     "PHY305/Book Notes/Celestial Mechanics.md",
-    "PHY305/Book Notes/The Celestial Sphere.md",
-    "ESO213/Lecture 8 - 213.md"
+    "PHY305/Book Notes/The Celestial Sphere.md"
   ]
 }
