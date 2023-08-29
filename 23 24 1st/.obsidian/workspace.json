@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 12 - 213.md",
+                "file": "ESO213/Lecture 10 - 213.md",
                 "mode": "preview",
                 "source": true
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 12 - 213.md",
+                "file": "ESO213/Lecture 12 - 213.md",
                 "mode": "source",
                 "source": true
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16c874b37f96db9c",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 12 - 213.md",
+                "file": "ESO213/Lecture 10 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 12 - 213.md",
+                "file": "ESO213/Lecture 10 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 12 - 213.md"
+                "file": "ESO213/Lecture 10 - 213.md"
               }
             }
           }
@@ -216,14 +215,14 @@
       }
     ]
   },
-  "active": "9242dc33d4e1e523",
+  "active": "3caf89993a980f82",
   "lastOpenFiles": [
-    "ObsidianTEMPLATES/Shortcuts.md",
-    "Lecture 12 - 213.md",
     "ESO213/main - eso213.md",
-    "Lecture 11 - 213.md",
-    "Lecture 10 - 213.md",
-    "Mineral Properties.png",
+    "ESO213/Lecture 12 - 213.md",
+    "ObsidianTEMPLATES/Shortcuts.md",
+    "ESO213/Lecture 11 - 213.md",
+    "ESO213/Lecture 10 - 213.md",
+    "ESO213/Mineral Properties.png",
     "Glossary - Sem.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
     "PHY305/main - phy305.md",
