@@ -30,4 +30,9 @@ Date Finished :
 <hr>
 
 
++ Multiplying a density by a velocity gives a flux, i.e., the amount passing through a unit area per unit time
+
+
+###### <span  style = "color:Orchid">Luminosity</span>
+The total power emanated by the spherical body, isotropically called its luminosity.
 

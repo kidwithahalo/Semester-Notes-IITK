@@ -29,7 +29,24 @@ Date Finished : 12-08-2023
 
 
 
-Revising, we get $\theta = 1.22 \frac{\lambda}{D}$
+Revising, we get $\theta = 1.22 \frac{\lambda}{D}$ and this quantity is called <span  style = "color:Sienna">Diffraction limit</span>
+ + Human eyses have a fixed integration time, of about 1/30 second so it is not possible to collect light and then produce a image like in long exposure. 
+   
+   For some telescopes, light could be allowed to be collected for months and thence the faintest sources can be traced and optically produced. 
+
+#### <span  style = "color:Tomato">EM Wave Characterisation</span>
+For a EM wave with electric filed, it can be described as 
+$$E = \hat{e}E(t)\cos({2 \pi \nu t} - k \cdot r + \phi)$$
+where
++ $\hat{e}$ gives the direction of polarization of the electric field
++ $E(t)$ is field’s time-dependent amplitude
++ $\nu$ is the frequency
++ $k$ is the wave vector, having the direction of the wave propagation, $|k| = \frac{2 \pi}{\lambda}$
++ $\phi$ is the phase shift of the wave
+
+
+
+
 <figure>
 <center>
 <img src="https://pressbooks.bccampus.ca/collegephysics/wp-content/uploads/sites/29/2016/04/Figure_28_06_02a.jpg" alt="" style="width:80%">
