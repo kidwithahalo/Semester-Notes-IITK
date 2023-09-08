@@ -95,3 +95,12 @@ $$\frac{du}{dr} = \frac{du}{dT} \frac{dT}{dr} \ \ \ = \ \ \ 4aT^{3} \frac{dT}{dr
 ## <span  style = "color:PaleGreen">OPACITY</span>
 read from the notes maybe 
 
+## <span  style = "color:PaleGreen">NUCLEAR ENERGY PRODUCTION</span>
+
+From the virial theorem, we saw that the thermal energy resulting from such a contraction(we assume that source of sun's energy is gravitational i.e. that the Sun had radiated until now the potential energy liberated by contracting from infinity to its present radius) is minus one-half the gravitational energy
+$$E_{gr} = -2 E_{th}$$
+Now therefore the thermal energy the results from contraction, and which Sun can radiate is 
+$$E_{th} \sim \frac{1}{2} \frac{G M_{\bigodot}^2}{r_{\bigodot}}$$
+and ![[Screenshot 2023-09-08 at 7.35.20 PM.png]]
+
+<< notes from professor shall explain it better >> 
