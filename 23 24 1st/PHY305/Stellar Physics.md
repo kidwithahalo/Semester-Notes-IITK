@@ -85,3 +85,13 @@ $$\frac{du}{dr} = \frac{du}{dT} \frac{dT}{dr} \ \ \ = \ \ \ 4aT^{3} \frac{dT}{dr
 ## <span  style = "color:PaleGreen">ENERGY CONSERVATION</span>
 
 ![[Note 08-Sep-2023 2.pdf]]
+
+
+## <span  style = "color:PaleGreen">THE EQUATION OF STATE</span>
+
+![[Note 08-Sep-2023 3.pdf]]
+
+
+## <span  style = "color:PaleGreen">OPACITY</span>
+read from the notes maybe 
+
