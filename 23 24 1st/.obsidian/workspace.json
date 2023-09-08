@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "998bed176cb0df03",
@@ -215,15 +214,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e740275d7eb31920",
+  "active": "e710499c32f81b8d",
   "lastOpenFiles": [
-    "Screenshot 2023-09-08 at 7.35.20 PM.png",
-    "Note 08-Sep-2023 3.pdf",
-    "Note 08-Sep-2023 2.pdf",
-    "Screenshot 2023-09-08 at 2.22.28 PM.png",
-    "Note 08-Sep-2023 1.pdf",
-    "Note 08-Sep-2023.pdf",
-    "stellar.pdf",
+    "PHY305/attachment/Screenshot 2023-09-08 at 7.35.20 PM.png",
+    "PHY305/attachment/Note 08-Sep-2023 3.pdf",
+    "PHY305/attachment/Note 08-Sep-2023 2.pdf",
+    "PHY305/attachment/Screenshot 2023-09-08 at 2.22.28 PM.png",
+    "PHY305/attachment/Note 08-Sep-2023 1.pdf",
+    "PHY305/attachment/Note 08-Sep-2023.pdf",
+    "PHY305/attachment/stellar.pdf",
     "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
     "PHY305/Stellar Physics.md",
     "PHY305/Book Notes/main - book notes  phy305.md",
