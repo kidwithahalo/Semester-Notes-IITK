@@ -1,70 +1,107 @@
 {
   "main": {
-    "id": "9f03daea1a6c503e",
+    "id": "974398c2a700c246",
     "type": "split",
     "children": [
       {
-        "id": "05c75ee2fe5eead2",
+        "id": "2c4936d9c2e11cfb",
         "type": "tabs",
         "children": [
           {
-            "id": "9c2af34da15125b4",
+            "id": "3c4e6b29187e7b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY305/Book Notes/Stars - Basic Observation.md",
+                "file": "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5dd261f4a8b45a71",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2304023b3c932a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHY305/main - phy305.md",
-                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "d291af9e395fdaab",
+            "id": "097d198ceeaf04c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY305/Book Notes/Stars - Basic Observation.md",
-                "mode": "source",
+                "file": "PHY305/Stellar Physics.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "4f8f188db4ca466e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6c7656c6b983ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHY305/Book Notes/main - book notes  phy305.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5fad4c4f5286f2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHY305/Book Notes/main - book notes  phy305.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c9ea13965c01399a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e740275d7eb31920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHY305/Stellar Physics.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4539ebff21176c67",
+    "id": "0a404da3a96d3a59",
     "type": "split",
     "children": [
       {
-        "id": "7684c410f8092041",
+        "id": "f7f51a283ea156a4",
         "type": "tabs",
         "children": [
           {
-            "id": "3caf89993a980f82",
+            "id": "e710499c32f81b8d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,7 +111,7 @@
             }
           },
           {
-            "id": "b0ecc8d53c29cd20",
+            "id": "8c0c1a4c561f2ff9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -89,7 +126,7 @@
             }
           },
           {
-            "id": "9e826f276087d958",
+            "id": "d8e2fcf817e066a5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,44 +141,44 @@
     "collapsed": true
   },
   "right": {
-    "id": "16c874b37f96db9c",
+    "id": "998bed176cb0df03",
     "type": "split",
     "children": [
       {
-        "id": "3c7913350a1ac024",
+        "id": "9fb2d8561fdf6420",
         "type": "tabs",
         "children": [
           {
-            "id": "5bbe621a17c4c70b",
+            "id": "db0641d517a6ca50",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY305/Book Notes/Stars - Basic Observation.md",
+                "file": "PHY305/Stellar Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "12e495c31c223c13",
+            "id": "58e163e36e071cfe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY305/Book Notes/Stars - Basic Observation.md",
+                "file": "PHY305/Stellar Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8b3da097c64e99a2",
+            "id": "ad09eb0418c39819",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,17 +189,16 @@
             }
           },
           {
-            "id": "4e30d4e83cde03de",
+            "id": "e805e0b3754692fc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHY305/Book Notes/Stars - Basic Observation.md"
+                "file": "PHY305/Stellar Physics.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,52 +215,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d291af9e395fdaab",
+  "active": "e740275d7eb31920",
   "lastOpenFiles": [
-    "PHY305/main - phy305.md",
-    "PHY305/Book Notes/Stars - Basic Observation.md",
+    "stellar.pdf",
     "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
+    "PHY305/Stellar Physics.md",
     "PHY305/Book Notes/main - book notes  phy305.md",
-    "Screenshot 2023-09-01 at 9.06.34 PM.png",
-    "Screenshot 2023-09-01 at 8.59.35 PM.png",
-    "PHY305/Book Notes/Introduction - Dan Maoz.md",
-    "ObsidianTEMPLATES/Shortcuts.md",
-    "ESO213/Lecture 11 - 213.md",
+    "ESO213/Lecture 16 - 213.md",
     "ESO213/main - eso213.md",
-    "ESO213/Lecture 10 - 213.md",
-    "ESO213/Lecture 9 - 213.md",
-    "ESO213/Lecture 7 - 213.md",
+    "ESO213/Lecture 15 - 213.md",
+    "ESO213/Lecture 14 - 213.md",
+    "ESO213/Lecture 13 - 213.md",
     "ESO213/Lecture 12 - 213.md",
-    "ESO213/Mineral Properties.png",
-    "Glossary - Sem.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/phy305 lec6.zip",
-    "PHY305/transcribed lecture notes - phy305/phy305 lec5.zip",
-    "PHY305/transcribed lecture notes - phy305/phy305 lec4.zip",
-    "PHY305/transcribed lecture notes - phy305/phy305 lec3.zip",
-    "PHY305/transcribed lecture notes - phy305/phy305 lec2.zip",
-    "PHY305/transcribed lecture notes - phy305/bundled files/phy305 lec6.zip",
-    "PHY305/transcribed lecture notes - phy305/bundled files/phy305 lec5.zip",
-    "PHY305/transcribed lecture notes - phy305/bundled files/phy305 lec4.zip",
-    "PHY305/transcribed lecture notes - phy305/bundled files/phy305 lec3.zip",
-    "PHY305/transcribed lecture notes - phy305/bundled files/phy305 lec2.zip",
-    "Short course on Elliptical Geometry.md",
-    "PHY305/Book Notes/Short course on Elliptical Geometry.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 5 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
-    "PHY305/attachment/Screenshot 2023-08-27 at 2.04.16 PM.png",
-    "PHY305/attachment/Screenshot 2023-08-27 at 1.32.42 PM.png",
-    "PHY305/attachment/Screenshot 2023-08-27 at 12.07.38 AM.png",
-    "PHY305/attachment/Screenshot 2023-08-26 at 11.50.48 PM.png",
-    "PHY305/attachment/Screenshot 2023-08-26 at 11.42.00 PM.png",
-    "PHY305/attachment/Screenshot 2023-08-26 at 11.41.28 PM.png",
-    "PHY305/attachment/Untitled Diagram.drawio 1.svg",
-    "PHY305/Book Notes/Newtonian Mechanics.md",
-    "PHY305/Book Notes/Keplar's Law Derived.md",
-    "PHY305/Book Notes/The Virial Theorem.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305-Pankaj’s MacBook Pro.md"
+    "PHY305/Book Notes/Stars - Basic Observation.md"
   ]
 }

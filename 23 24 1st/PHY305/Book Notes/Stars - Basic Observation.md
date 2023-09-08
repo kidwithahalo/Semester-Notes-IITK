@@ -8,7 +8,7 @@
 
 Book Name : 
 Date Started : 12-08-2023
-Date Finished : 
+Date Finished :  04-09-2023
 
 <hr>
 
@@ -19,6 +19,7 @@ Date Finished :
 
 
 ### <span  style = "color:dodgerblue">Questions to track </span>
++ Stars that begin their lives with less than about 8M ̄ eventually shed their outer layers and become white dwarfs -- then how do they lose this extra layer , in which form ?
 + 
 
 
@@ -102,5 +103,22 @@ $$B_{\lambda} \sim e^{ - \frac{h c}{\lambda kT}}$$
 + Though the core of a star can have $T \sim 10^{6} \text{ K}$ , the outer surface can have temperatures in range of $\sim 10^{3}\text{ K}$
 <br>
 + Layers in the surface of star from where the stars are able to escape is called 'Photosphere'. The depth of the base of the photosphere can be wavelength dependent due to the variation in the absorption and scattering probabilities. 
-+ 
+
+##### <span  style = "color:SpringGreen">Color Temperature</span>
+So we get the radiation from the stars but we have no idea to experiment to verify the temperature calculation empirically. So we take  the fluxes at different wavelengths, and then analyse what other ratio of temperature can give us such same data that we collected on wavelengths. 
+> The color temperature is the temperature of the Planck function with shape most closely matching the observed spectrum
+> Note : the peak will often be outside the wavelength range for which we have data
+
+
+<hr>
+
+<< After  this there is a heck lot of stars nomenclature and I don't wanna that >>
+
+<hr>
+
+##### <span  style = "color:SpringGreen">Star Spectral Types Nomenclature</span>
+
+$$\underbrace{\text{Oh Be a Fine Guy, Kiss me}}_{\text{Star spectral types }} $$
+
+
 
