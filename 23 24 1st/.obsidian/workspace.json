@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
+                "file": "PHY305/main - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 7 - phy305.md",
+                "file": "Important Formulas for PHY305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -56,7 +56,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 7 - phy305.md",
+                "file": "PHY305/main - phy305.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f0e99772305000e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Formulas for PHY305.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 7 - phy305.md",
+                "file": "Important Formulas for PHY305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 7 - phy305.md",
+                "file": "Important Formulas for PHY305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 7 - phy305.md"
+                "file": "Important Formulas for PHY305.md"
               }
             }
           }
@@ -194,9 +206,11 @@
   "active": "097d198ceeaf04c4",
   "lastOpenFiles": [
     "PHY305/main - phy305.md",
-    "Lecture 7 - phy305.md",
+    "ESO213/Lecture 16 - 213.md",
     "PHY305/Book Notes/main - book notes  phy305.md",
     "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
+    "Important Formulas for PHY305.md",
+    "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
     "PHY305/Book Notes/Stellar Physics.md",
     "PHY305/attachment/Screenshot 2023-09-08 at 7.35.20 PM.png",
@@ -206,7 +220,6 @@
     "PHY305/attachment/Note 08-Sep-2023 1.pdf",
     "PHY305/attachment/Note 08-Sep-2023.pdf",
     "PHY305/attachment/stellar.pdf",
-    "ESO213/Lecture 16 - 213.md",
     "ESO213/main - eso213.md",
     "ESO213/Lecture 15 - 213.md",
     "ESO213/Lecture 14 - 213.md",

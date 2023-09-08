@@ -26,9 +26,9 @@ All the layouts of the book notes are in the main file.
 
 <hr>
 
-### <span  style = "color:AquaMarine">Problems to ask </span>
+### <span  style = "color:AquaMarine">CheatSheet </span>
 
-
+[[Important Formulas for PHY305]]
 
 <hr>
 
