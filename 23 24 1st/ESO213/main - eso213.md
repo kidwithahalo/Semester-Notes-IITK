@@ -22,4 +22,5 @@ Instructor: Prof. Deepak Dhingra
 15. [[Lecture 15 - 213]]
 16. [[Lecture 16 - 213]]
 17. [[Lecture 17 - 213]]
+18. [[Lecture 18 - 213]]
 

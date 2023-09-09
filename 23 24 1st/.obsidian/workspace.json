@@ -13,44 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 17 - 213.md",
+                "file": "ESO213/main - eso213.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ]
-      },
-      {
-        "id": "1ea149ec57609da4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80035ef795ea8947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESO213/main - eso213.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f0bbc50f1802cd34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 17 - 213.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 17 - 213.md",
+                "file": "ESO213/main - eso213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 17 - 213.md",
+                "file": "ESO213/main - eso213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 17 - 213.md"
+                "file": "ESO213/main - eso213.md"
               }
             }
           }
@@ -180,8 +149,10 @@
   },
   "active": "93dd23c0de75d967",
   "lastOpenFiles": [
+    "Lecture 18 - 213.md",
     "ESO213/main - eso213.md",
     "Lecture 17 - 213.md",
+    "Lecture 17.png",
     "PHY305/main - phy305.md",
     "ESO213/Lecture 16 - 213.md",
     "ObsidianTEMPLATES/Templates/IITK template.md",
