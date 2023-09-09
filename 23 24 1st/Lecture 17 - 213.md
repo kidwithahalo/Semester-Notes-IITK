@@ -3,7 +3,7 @@
 <hr>
 
 Book Name : 
-Date Started : {{date}}
+Date Started : 09-09-2023
 Date Finished : 
 
 <hr>
@@ -18,12 +18,8 @@ Date Finished :
 + 
 
 
-<hr>
-
-### <span  style = "color:Coral">Chapters Section </span>
-+ 
 
 <hr>
 
 
-
++ Study of rocks is called Petrology
