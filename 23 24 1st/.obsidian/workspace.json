@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/main - eso213.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "998bed176cb0df03",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/main - eso213.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/main - eso213.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/main - eso213.md"
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md"
               }
             }
           }
@@ -149,11 +148,12 @@
   },
   "active": "93dd23c0de75d967",
   "lastOpenFiles": [
-    "Lecture 18 - 213.md",
-    "ESO213/main - eso213.md",
-    "Lecture 17 - 213.md",
-    "Lecture 17.png",
+    "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305.md",
     "PHY305/main - phy305.md",
+    "ESO213/main - eso213.md",
+    "ESO213/Lecture 18 - 213.md",
+    "ESO213/Lecture 17 - 213.md",
+    "ESO213/Lecture 17.png",
     "ESO213/Lecture 16 - 213.md",
     "ObsidianTEMPLATES/Templates/IITK template.md",
     "ESO213/Lecture 16.png",
