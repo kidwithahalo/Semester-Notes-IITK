@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Formulas for PHY305.md",
+                "file": "ESO213/Lecture 16 - 213.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,14 +68,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Formulas for PHY305.md",
+                "file": "ESO213/main - eso213.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c73fb22bc39cc0a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESO213/Lecture 16 - 213.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Formulas for PHY305.md",
+                "file": "ESO213/Lecture 16 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Formulas for PHY305.md",
+                "file": "ESO213/Lecture 16 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Formulas for PHY305.md"
+                "file": "ESO213/Lecture 16 - 213.md"
               }
             }
           }
@@ -205,11 +217,12 @@
   },
   "active": "097d198ceeaf04c4",
   "lastOpenFiles": [
-    "PHY305/main - phy305.md",
+    "ESO213/main - eso213.md",
     "ESO213/Lecture 16 - 213.md",
+    "Important Formulas for PHY305.md",
+    "PHY305/main - phy305.md",
     "PHY305/Book Notes/main - book notes  phy305.md",
     "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
-    "Important Formulas for PHY305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
     "PHY305/Book Notes/Stellar Physics.md",
@@ -220,7 +233,6 @@
     "PHY305/attachment/Note 08-Sep-2023 1.pdf",
     "PHY305/attachment/Note 08-Sep-2023.pdf",
     "PHY305/attachment/stellar.pdf",
-    "ESO213/main - eso213.md",
     "ESO213/Lecture 15 - 213.md",
     "ESO213/Lecture 14 - 213.md",
     "ESO213/Lecture 13 - 213.md",
