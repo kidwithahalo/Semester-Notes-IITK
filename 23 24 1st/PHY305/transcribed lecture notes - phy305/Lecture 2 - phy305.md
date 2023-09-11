@@ -7,7 +7,7 @@ If you observe the night sky from any point in the world, you will see some star
 ##### <span  style = "color:SpringGreen">Challenges :: </span>
 The daily motion of the earth is coupled with the annual motion of the sun and the slow wobble of its rotation axis  $\Longrightarrow$ results  $\Longrightarrow$  constantly changing position of the celestial bodies. We need to come up with some coordinate system in which the locations of astronomical objects will be specified and will not be sensitive to that short variation of the earth's motion.
 
-### 1. <span  style = "color:AquaMarine">Altitude - Azimuthal Co-ordinate System</span>
+### 1. <span  style = "color:AquaMarine">Altitude - Azimuthal Co-ordinate Systems</span>
 One of the interesting things about observing the night sky is that to view it, we only require directions, not distances. Two coordinates would suffice for that.  
 One of the most straightforward coordinate systems is based on the observer's local horizon. The azimuthal distance from the horizon of the star, along with the altitude of the star, can give the location of the star.
 The azimuthal $A = \text{The angle eastward along the horizon from the north to the great circle. }$
