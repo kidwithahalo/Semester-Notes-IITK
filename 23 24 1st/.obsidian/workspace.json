@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md"
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "93dd23c0de75d967",
   "lastOpenFiles": [
+    "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305.md",
     "PHY305/main - phy305.md",
     "ESO213/main - eso213.md",
