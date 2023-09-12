@@ -8,7 +8,9 @@ What will happen if the matter is present along the ray path ?
 
 Final radiative transfer equation in presence of matter is 
 $$\tag{2}\frac{d I_{\nu}}{ds} = j_{\nu} \ - \ \alpha_{\nu}I_{\nu}$$
-where $\alpha_{\nu} =$ absorption coefficient which depends on the frequency and the material properties.
+where
++ $\alpha_{\nu} =$ absorption coefficient which depends on the frequency and the material properties.
++ $j_\nu$ = emission coefficient
 
 #### <span  style = "color:Orchid">Solutions</span>
 It is quite easy to solve equation. 2, if either the emission coefficient or absorption coefficient is zero.
