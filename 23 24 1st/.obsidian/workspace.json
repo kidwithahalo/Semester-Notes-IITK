@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ae459a0266d78056",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "26624527fd6c2503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "998bed176cb0df03",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md"
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md"
+              }
+            }
+          },
+          {
+            "id": "bbc81e8979e2564e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -165,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26624527fd6c2503",
+  "active": "93dd23c0de75d967",
   "lastOpenFiles": [
+    "PHY305/transcribed lecture notes - phy305/Lecture 5 - phy305.md",
+    "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305.md",
