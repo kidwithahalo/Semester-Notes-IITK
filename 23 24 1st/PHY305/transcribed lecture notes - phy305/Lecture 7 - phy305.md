@@ -20,5 +20,3 @@ Solar
 ---
 ---
 
-Solar flux above the Earth's Atmosphere , 
-$$f_{0}= \frac{L_\bigodot}{4 \pi d_{\bigodot}^{2}}= 1.4 \times 10^{6} \text{ erg/s/cm}^2$$
