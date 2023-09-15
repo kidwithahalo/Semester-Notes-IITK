@@ -20,3 +20,5 @@ Solar
 ---
 ---
 
+$$\tau_{KH} = \frac{\frac{1}{2}|E_{grav}|}{L_\bigodot}$$
+because half of the energy transfer to the thermal aand other half being radiated away
