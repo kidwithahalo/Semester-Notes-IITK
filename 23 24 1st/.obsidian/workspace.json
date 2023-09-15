@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f2ba0fc0be98e96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3351efd2db50b622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "998bed176cb0df03",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md"
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md"
               }
             }
           },
@@ -156,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93dd23c0de75d967",
+  "active": "3351efd2db50b622",
   "lastOpenFiles": [
+    "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 5 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
@@ -175,7 +195,6 @@
     "PHY305/Book Notes/main - book notes  phy305.md",
     "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
     "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
     "PHY305/Book Notes/Stellar Physics.md",
     "PHY305/attachment/Screenshot 2023-09-08 at 7.35.20 PM.png",
     "PHY305/attachment/Note 08-Sep-2023 3.pdf",
