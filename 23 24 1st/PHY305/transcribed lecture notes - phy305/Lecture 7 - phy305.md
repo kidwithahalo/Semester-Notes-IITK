@@ -20,6 +20,3 @@ Solar
 ---
 ---
 
-The de Broglie wavelength of a particle with momentum $p$ can be written as 
-$$\lambda = \frac{h}{p}$$
-$$\frac{1}{2} \mu_{m} v^{2}= \frac{p^2}{2 \mu_m}$$
