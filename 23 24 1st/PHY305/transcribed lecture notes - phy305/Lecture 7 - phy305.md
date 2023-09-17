@@ -20,5 +20,3 @@ Solar
 ---
 ---
 
-$$\tag{Energy Release = 0.425 MeV}{^1_1H}+{^1_1H}\Longrightarrow {^2_1H} + e^{+} + \gamma_e$$
-$$\tag{Each gamma ray of 0.511 MeV}e^+ + e^- \Longrightarrow \gamma + \gamma$$
