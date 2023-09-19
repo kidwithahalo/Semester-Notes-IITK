@@ -4,7 +4,7 @@
 
 Book Name : 
 Date Started : 18-09-2023
-Date Finished : 
+Date Finished : 18-09-2023
 
 <hr>
 
@@ -96,3 +96,16 @@ Each layer has a unique density $$\biggr(\text{density} = \frac{\text{mass}}{\te
 
 
 ### <span  style = "color:AquaMarine">Volcanism</span>
+[Look at this video of Volcano](https://youtu.be/b9Hq6bTBF2A)
+
+Significant outpouring through an opening on a planetary body is termed as Volcanism
+
+Causal factors for the volcanism can be 
++ Primary Internal Heating
++ Tidal Heating - The flexing from gravity causes tidal heating. In the same way that you can heat up a spot on a wire coat hanger by repeatedly bending it, the flexing creates friction in Io's interior, which generates the tremendous heat that powers the moon's extreme volcanism
++ Tectonic Impacts
+
+Types of Volcanic discharge can be 
++ Mud Volcanism
++ Cryovolcanism
++ Ferrovolcanism
