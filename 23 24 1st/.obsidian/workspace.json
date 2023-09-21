@@ -11,9 +11,11 @@
             "id": "48711554f0cd0326",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ESO213/Screenshot 2023-09-18 at 5.34.00 AM.png"
+                "file": "ESO213/Lecture 16 - 213.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/Screenshot 2023-09-18 at 5.34.00 AM.png",
+                "file": "ESO213/Lecture 16 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/Screenshot 2023-09-18 at 5.34.00 AM.png",
+                "file": "ESO213/Lecture 16 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/Screenshot 2023-09-18 at 5.34.00 AM.png"
+                "file": "ESO213/Lecture 16 - 213.md"
               }
             }
           },
@@ -154,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e710499c32f81b8d",
+  "active": "48711554f0cd0326",
   "lastOpenFiles": [
+    "ESO213/Lecture 17.png",
+    "ESO213/Screenshot 2023-09-18 at 5.34.00 AM.png",
     "ESO213/Lecture 11 - 213.md",
     "ESO213/main - eso213.md",
     "ESO213/Lecture 12 - 213.md",
@@ -168,7 +172,6 @@
     "Lecture 21 - 213.md",
     "Lecture 20 - 213.md",
     "Lecture 19 - 213.md",
-    "ESO213/Screenshot 2023-09-18 at 5.34.00 AM.png",
     "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 5 - phy305.md",
@@ -177,7 +180,6 @@
     "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305.md",
     "PHY305/main - phy305.md",
-    "ESO213/Lecture 17.png",
     "ObsidianTEMPLATES/Templates/IITK template.md",
     "ESO213/Lecture 16.png",
     "PHY305/Important Formulas for PHY305.md",
@@ -190,7 +192,6 @@
     "PHY305/attachment/Screenshot 2023-09-08 at 2.22.28 PM.png",
     "PHY305/attachment/Note 08-Sep-2023 1.pdf",
     "PHY305/attachment/Note 08-Sep-2023.pdf",
-    "PHY305/attachment/stellar.pdf",
-    "PHY305/Book Notes/Stars - Basic Observation.md"
+    "PHY305/attachment/stellar.pdf"
   ]
 }

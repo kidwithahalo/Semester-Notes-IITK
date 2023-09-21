@@ -19,7 +19,7 @@ Date Finished : 09-09-2023
   > Barite is used because _it is very dense (so you don't have use much), chemically inert (so_ it won't react with anything) and perhaps most importantly, cheap.
   
 + Healing (heat treatment) may reconstitute the structure. How and why ? 
-
+sdgdsf
 
 <hr>
 
