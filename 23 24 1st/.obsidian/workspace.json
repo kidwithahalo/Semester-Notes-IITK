@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59b6815bb2f17f77",
+        "id": "1627f6db7e262bda",
         "type": "tabs",
         "children": [
           {
-            "id": "5c4a19c0576099ff",
+            "id": "f4b37a1dda74fbb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/Lecture 26 - 213.md",
+                "file": "Lecture 14 - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -22,28 +22,28 @@
         ]
       },
       {
-        "id": "68107b95a660cb02",
+        "id": "d9591681ee604f5b",
         "type": "tabs",
         "children": [
           {
-            "id": "899dc70e962717ad",
+            "id": "57b76c53f0b6d284",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/main - eso213.md",
+                "file": "PHY305/main - phy305.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "856ffa1aa0331c12",
+            "id": "8a49751a86b44616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/Lecture 26 - 213.md",
+                "file": "Lecture 14 - phy305.md",
                 "mode": "source",
                 "source": true
               }
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "998bed176cb0df03",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/Lecture 26 - 213.md",
+                "file": "Lecture 14 - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/Lecture 26 - 213.md",
+                "file": "Lecture 14 - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/Lecture 26 - 213.md"
+                "file": "Lecture 14 - phy305.md"
               }
             }
           },
@@ -224,10 +225,14 @@
       }
     ]
   },
-  "active": "e710499c32f81b8d",
+  "active": "f4b37a1dda74fbb4",
   "lastOpenFiles": [
-    "ObsidianTEMPLATES/Shortcuts.md",
+    "PHY305/main - phy305.md",
+    "Lecture 14 - phy305.md",
+    "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
+    "Glossary - Sem.md",
     "ESO213/Lecture 26 - 213.md",
+    "ObsidianTEMPLATES/Shortcuts.md",
     "ESO213/main - eso213.md",
     "ESO213/Lecture 25 - 213.md",
     "ESO213/Lecture 24 - 213.md",
@@ -247,14 +252,10 @@
     "ESO213/Lecture 15 - 213.md",
     "ESO213/Lecture 17 - 213.md",
     "ESO213/Lecture 20 - 213.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 5 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305.md",
-    "PHY305/main - phy305.md",
     "ESO213/Lecture 16.png",
     "PHY305/attachment/Screenshot 2023-09-08 at 7.35.20 PM.png",
     "PHY305/attachment/Note 08-Sep-2023 3.pdf",
