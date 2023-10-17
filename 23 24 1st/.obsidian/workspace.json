@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce18b60847746c89",
+        "id": "59b6815bb2f17f77",
         "type": "tabs",
         "children": [
           {
-            "id": "48711554f0cd0326",
+            "id": "5c4a19c0576099ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 22 - 213.md",
+                "file": "Lecture 26 - 213.md",
                 "mode": "preview",
                 "source": true
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "59b6815bb2f17f77",
+        "id": "68107b95a660cb02",
         "type": "tabs",
         "children": [
           {
-            "id": "5c4a19c0576099ff",
+            "id": "899dc70e962717ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "d662b89b092c8686",
+            "id": "856ffa1aa0331c12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 22 - 213.md",
+                "file": "Lecture 26 - 213.md",
                 "mode": "source",
                 "source": true
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "998bed176cb0df03",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 22 - 213.md",
+                "file": "Lecture 26 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 22 - 213.md",
+                "file": "Lecture 26 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 22 - 213.md"
+                "file": "Lecture 26 - 213.md"
               }
             }
           },
@@ -188,9 +187,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48711554f0cd0326",
+  "floating": {
+    "id": "fed99f8aebf58863",
+    "type": "floating",
+    "children": [
+      {
+        "id": "31c74ee731d7e15a",
+        "type": "window",
+        "children": [
+          {
+            "id": "b2178af77f9c6fb9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "497b4ea54a36e7b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ObsidianTEMPLATES/Shortcuts.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 208,
+        "y": 25,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "856ffa1aa0331c12",
   "lastOpenFiles": [
+    "ObsidianTEMPLATES/Shortcuts.md",
+    "Lecture 26 - 213.md",
     "ESO213/main - eso213.md",
+    "Lecture 25 - 213.md",
+    "Lecture 24 - 213.md",
+    "Lecture 23 - 213.md",
     "Lecture 22 - 213.md",
     "ESO213/Lecture 21 - 213.md",
     "ESO213/Lecture 19 - 213.md",
@@ -214,12 +255,7 @@
     "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305.md",
     "PHY305/main - phy305.md",
-    "ObsidianTEMPLATES/Templates/IITK template.md",
     "ESO213/Lecture 16.png",
-    "PHY305/Important Formulas for PHY305.md",
-    "PHY305/Book Notes/main - book notes  phy305.md",
-    "PHY305/Book Notes/Maoz, Dan - Astrophysics in a Nutshell (aka Basic Astrophysics).md",
-    "PHY305/Book Notes/Stellar Physics.md",
     "PHY305/attachment/Screenshot 2023-09-08 at 7.35.20 PM.png",
     "PHY305/attachment/Note 08-Sep-2023 3.pdf",
     "PHY305/attachment/Note 08-Sep-2023 2.pdf",
