@@ -65,6 +65,7 @@ $$\Downarrow$$
 Further , according to Pauli's Exclusion principle, two identical fermions cannot occupy the same quantum state. 
 
 Hence, the electrons that are closely packed and localised into a small volume $dV$ must have a large uncertainty in momentum and have momenta $P$ that are different from those of the other fermions in the volume. This necessarily pushes the fermions to a large $p's$ and large momenta implies large/strong pressure. 
+Spin of electron is $, s = \frac{1}{2}$
 
 ![[Screenshot 2023-10-17 at 5.04.28 PM.png]]
 
@@ -93,12 +94,13 @@ When $T \rightarrow 0$, then $\mu(T)$ approaches an asymptote value, e.g. when $
 ![[Screenshot 2023-10-17 at 5.19.33 PM.png]]
 
 $$\Downarrow$$
-This means that all wnergy states upto $E_f$ are occupied and all above $E_f$ are empty. Under such conditions, the gas is called degenerate. 
+This means that all energy states upto $E_f$ are occupied and all above $E_f$ are empty. Under such conditions, the gas is called <u>degenerate. </u> 
 For degenerate electrons, having an isotropic velocity fields, the phase space distribution will be 
 ![[Screenshot 2023-10-17 at 5.23.08 PM.png]]
 $$\Downarrow$$
 Further, we can divide the above equation by $dV$ to get the number density of electrons of a given momentum $p$ as given below
 ![[Screenshot 2023-10-17 at 5.24.54 PM.png]]
+<span  style = "color:lightgreen">Above equation is for the : Total number of electrons in the degenerate state</span>
 
 $$\Downarrow$$
 Now let us derive a general expression for the pressure exerted by any ideal gas (basic 10+2 class calculations)
