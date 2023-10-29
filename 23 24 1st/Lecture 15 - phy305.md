@@ -50,7 +50,7 @@ $$\rho_{q}= \frac{m_{p}}{(\lambda / 2)^{3}}= \frac{m_{p}\times8m_p(3mkT)^{\frac{
 
 Let us determine its numerical value 
 ![[Screenshot 2023-10-17 at 4.51.19 PM.png]]
-
+This is the required density for the matter to go to  quantum domain. Below this value , gas remains in the classical regimen. 
 ##### <span  style = "color:SpringGreen">NOTE !!!</span>
 ![[Screenshot 2023-10-17 at 4.52.28 PM.png]]
 
