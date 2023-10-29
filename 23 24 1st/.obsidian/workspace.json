@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 14 - phy305.md",
+                "file": "Lecture 15 - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "8a49751a86b44616",
+            "id": "fffd82801b98d731",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,9 +48,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b2c83c5dc87c6da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 15 - phy305.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 14 - phy305.md",
+                "file": "Lecture 15 - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 14 - phy305.md",
+                "file": "Lecture 15 - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 14 - phy305.md"
+                "file": "Lecture 15 - phy305.md"
               }
             }
           },
@@ -225,14 +237,25 @@
       }
     ]
   },
-  "active": "f4b37a1dda74fbb4",
+  "active": "b2c83c5dc87c6da2",
   "lastOpenFiles": [
-    "PHY305/main - phy305.md",
+    "ObsidianTEMPLATES/Shortcuts.md",
+    "Lecture 15 - phy305.md",
+    "Screenshot 2023-10-17 at 5.46.30 PM.png",
+    "Screenshot 2023-10-17 at 5.41.17 PM.png",
+    "Screenshot 2023-10-17 at 5.34.12 PM.png",
+    "Screenshot 2023-10-17 at 5.32.32 PM.png",
+    "Screenshot 2023-10-17 at 5.26.45 PM.png",
+    "Screenshot 2023-10-17 at 5.24.54 PM.png",
+    "Screenshot 2023-10-17 at 5.23.08 PM.png",
+    "Screenshot 2023-10-17 at 5.19.33 PM.png",
+    "Screenshot 2023-10-17 at 5.04.28 PM.png",
+    "Screenshot 2023-10-17 at 4.56.35 PM.png",
     "Lecture 14 - phy305.md",
+    "PHY305/main - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
     "Glossary - Sem.md",
     "ESO213/Lecture 26 - 213.md",
-    "ObsidianTEMPLATES/Shortcuts.md",
     "ESO213/main - eso213.md",
     "ESO213/Lecture 25 - 213.md",
     "ESO213/Lecture 24 - 213.md",
@@ -240,11 +263,8 @@
     "ESO213/Lecture 22 - 213.md",
     "ESO213/Lecture 21 - 213.md",
     "ESO213/Lecture 19 - 213.md",
-    "ESO213/Mineral Properties.png",
-    "ESO213/Screenshot 2023-09-18 at 5.34.00 AM.png",
     "ESO213/Lecture 18 - 213.md",
     "ESO213/Lecture 16 - 213.md",
-    "ESO213/Lecture 17.png",
     "ESO213/Lecture 11 - 213.md",
     "ESO213/Lecture 12 - 213.md",
     "ESO213/Lecture 13 - 213.md",
@@ -254,13 +274,8 @@
     "ESO213/Lecture 20 - 213.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 6 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 5 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 4 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 3 - phy305.md",
-    "ESO213/Lecture 16.png",
-    "PHY305/attachment/Screenshot 2023-09-08 at 7.35.20 PM.png",
     "PHY305/attachment/Note 08-Sep-2023 3.pdf",
     "PHY305/attachment/Note 08-Sep-2023 2.pdf",
-    "PHY305/attachment/Screenshot 2023-09-08 at 2.22.28 PM.png",
     "PHY305/attachment/Note 08-Sep-2023 1.pdf",
     "PHY305/attachment/Note 08-Sep-2023.pdf",
     "PHY305/attachment/stellar.pdf"
