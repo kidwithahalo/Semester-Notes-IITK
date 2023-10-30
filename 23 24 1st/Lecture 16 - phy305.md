@@ -70,4 +70,8 @@ $$\tag{4} P_{e}= \Bigg( \frac{3}{8 \pi} \Bigg)^{1/3}{\frac{hc}{4m_{p}^{4/3}}}\Bi
 ![[Screenshot 2023-10-30 at 11.55.31 AM.png]]
 
 $\bbox[12px, border: 4px solid cyan] {\text{Things to Note}}$
+The pressure equation does not depend on the mas of electron anymore like the non-relativistic case. What does that mean ?? 
+This means that this pressure equation holds for any degenerate $\frac{1}{2}$ spin particles in the ultra-relativistic regime behaves same. 
+
+Also, for ultra-relativistic particles, the rest mass is a negligible fraction of  the total energy $E = (m^{2}c^{4}+ p^{2}c^{2})^\frac{1}{2}$ and hence $p = E/c$
 
