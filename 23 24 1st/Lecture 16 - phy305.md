@@ -4,7 +4,7 @@
 
 Book Name : 
 Date Started : 30-10-2023
-Date Finished : 
+Date Finished : 30-10-2023
 
 <hr>
 
@@ -79,4 +79,44 @@ As previous calculation showed that if white dwarf mass increases, the electron 
 
 <span  style = "color:dodgerblue">As we go to the higher masses and the density increases due to the shrinking radius, the pressure support will rise more and more slowly, so that the radius shrinks even more sharply with increasing mass.</span>
 
+![[Screenshot 2023-10-30 at 12.37.44 PM.png]]
 
+$$\Downarrow$$
+
+$$P \sim \rho^{\frac{4 + \epsilon}{3}}$$
+$$\Downarrow$$
+![[Screenshot 2023-10-30 at 12.41.41 PM.png]]
+$$\Downarrow$$
+In other words, for the mass that is high enough for electrons become ultra-relativistic, the electron pressure becomes incapable of supporting the star against gravity and the radius shrinks  to zero and the density becomes infinite , unless some other kind of pressure sets in. 
+$$\Downarrow$$
+We will see at high enough density, the degeneracy pressure due to protons and neutrons  begin to operate and it can sometimes stop the full gravitational collapse producing objects called neutrons star. 
+$$\Downarrow$$
+This also implies  that there will be a mass limit upto which the star can be supported by degenerate electrons pressure. This mass is called ==Chandrashekhar Mass.==
+
+#### <span  style = "color:Tomato">Estimation of Chandrashekhar Mass</span>
+Recall the stellar structure model and Virial theorem 
+$$\tag{1} \bar{P}V = \frac{-1}{3}E_{gr}$$
+In this equation, the pressure will be balanced by the self-gravity of the star. 
+Now replacing, the pressure due to ultra relativistic electrons derive before we can write
+![[Screenshot 2023-10-30 at 12.48.50 PM.png]]
+
+$$\Downarrow$$
+This is again from simplified solution from Virial Theorem. If one solves for full hydrostatic equation, then we will have 
+$$\tag{Eqn. of Chandrashekar Mass}\bbox[8px, border: 2px solid red] {M \approx 0.21 \bigg(\frac{Z}{A}\bigg)^{2}\bigg(\frac{hc}{Gm_{p}^2} \bigg)^{3/2}m_p}$$
+
+$$\Downarrow$$
+
+![[Screenshot 2023-10-30 at 12.54.22 PM.png]]
+
+$\bbox[8px, border: 2px solid dodgerblue] {\text{To add to context}}$
+$\alpha_G$ represents the strength of gravitational interaction and it is the gravitational analogue of the fine structure constant. 
+$$\alpha_{em} \sim \frac{e^{2}}{hc} \approx \frac{1}{137}$$
+which measures the strength of EM radiation. 
+
+$$\Downarrow$$
+
+Hence, we can calculate maximum mass that can be supported by electron degeneracy pressure
+$$M_{ch} = 0.21 \times(0.5)^{2}\times(10^{-39})^{\frac{3}{2}}\times1.7\times 10^{-24}$$
+$$ = 1.4 M_{\bigodot}$$
+And this is infact, observationally verified and no white dwarf with mass higher than $M_{ch}$ have been found. 
+Apparently there is a lower bound of $0.25M_{\bigodot}$ for white dwarf. As a finite age of universe, $1.4 \times10^{10}$ years , stars with initial mass of $0.8M_{\bigodot}$ have not had enough time to go through their main sequence life time even if they form early in the history of universe. 
