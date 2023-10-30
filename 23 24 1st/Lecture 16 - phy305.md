@@ -75,3 +75,8 @@ This means that this pressure equation holds for any degenerate $\frac{1}{2}$ sp
 
 Also, for ultra-relativistic particles, the rest mass is a negligible fraction of  the total energy $E = (m^{2}c^{4}+ p^{2}c^{2})^\frac{1}{2}$ and hence $p = E/c$
 
+As previous calculation showed that if white dwarf mass increases, the electron gradually moves from non-relativistic regime to ultra-relativistic regime with power law index of $\rho$ gradually decreasing  from $\frac{5}{3} \text{ to } \frac{4}{3}$
+
+<span  style = "color:dodgerblue">As we go to the higher masses and the density increases due to the shrinking radius, the pressure support will rise more and more slowly, so that the radius shrinks even more sharply with increasing mass.</span>
+
+
