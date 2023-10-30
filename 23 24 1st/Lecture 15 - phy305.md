@@ -4,7 +4,7 @@
 
 Book Name : 
 Date Started : 17-10-2023
-Date Finished : 
+Date Finished :  30-10-2023
 
 <hr>
 
@@ -128,27 +128,39 @@ where $n_{e} = \frac{8\pi}{3h^{3}} {p_f}^3$
 
 ![[Screenshot 2023-10-17 at 5.46.30 PM.png]]
 
+$$\Downarrow$$
+Further , the electron degeneracy pressure is obtained as 
+$$\tag{Degeneracy pressure}P_{e}= \Bigg( {\frac{3}{\pi}}\Bigg)\Bigg({\frac{h^2}{20 m_{e} {m_{p}}^{5/3}}} \Bigg)\Bigg({\frac{Z}{A}} \Bigg)^{\frac{5}{3}}\rho^{5/3}$$
 
-Electron Degeneracy Pressure
-Mass radius in dwarf planet
+$\bbox[28px, border: 6px solid red] {\text{Feature }}$
+Electron pressure does not depend on the temperature . 
+This is quite intuitive because in our derivation, we have assumed that $KT$ is effectively zero ($KT$ is very low compared to the energy of the most energetic electrons at the Fermi Energy, which are prevented from occupying lower energy states by the Pauli principle)
+
+In a typical white dwarf , $\rho \sim 10^{6}\text{g} \text{ cm}^{-3}, T \sim 10^{7} \text{ K}$.
+White dwarfs are generally composed of material that was processed by nuclear reactions into helium, carbon and oxygen and we can take $\frac{Z}{A} = 0.5$ , or $\frac{A}{Z} = 2$. 
+Plugging these numbers in pressure (electron degeneracy), we have 
+![[Screenshot 2023-10-30 at 10.52.16 AM.png]]
+
+$$\Downarrow$$
+As opposed to the electrons, the nuclei at such densities are still completely in the classical regime and we can calculate the thermal pressure due to the nuclei assuming a helium composition. 
+
+![[Screenshot 2023-10-30 at 10.54.02 AM.png]]
+$$\Downarrow$$
+==The degenerate electron pressure completely dominates the pressure in the white dwarf.==
 
 
+### <span  style = "color:AquaMarine">White Dwarf Properties </span>
+Now we want  to couple the equation of state of the degenerate electron pressure with the other equation of stellar structure for finding out different properties of the white dwarf. 
 
-------
-<table> 
-&nbsp; <tr>  
-&nbsp; &nbsp; <td>Solar Mass</td>  
-&nbsp;&nbsp;&nbsp; <td>t_ms</td> 
-&nbsp; </tr>  
-&nbsp; <tr>  
-&nbsp; &nbsp; <td>0.5 </td>  
-&nbsp;&nbsp;&nbsp; <td>5e10 years</td>  
-&nbsp; </tr>  
-&nbsp; &nbsp; <td>1 </td>  
-&nbsp;&nbsp;&nbsp; <td>10e10 years</td>  
-&nbsp; </tr>  
-&nbsp; &nbsp; <td>10 </td>  
-&nbsp;&nbsp;&nbsp; <td>2e7 years</td>  
-&nbsp; </tr>  
-</table>
+##### <span  style = "color:SpringGreen">Mass Radius Relationship</span>
+![[Screenshot 2023-10-30 at 10.58.10 AM.png]]
 
+$$\Downarrow$$
+For the degenerate electron gas equation of state is 
+$$\tag{3} P \sim b \ p^{\frac{5}{3}} \sim b \frac{M^{5/3}}{r^5}$$
+where $b$ is given by the constant in the electron degenerate pressure.
+
+![[Screenshot 2023-10-30 at 11.00.25 AM.png]]
+
+$$\Downarrow$$
+In other words, the radius of a white dwarf decreases with increasing mass. An order of magnitude estimate of radius would be as given above in the screenshot. 
