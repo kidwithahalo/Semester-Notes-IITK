@@ -169,3 +169,8 @@ $$
 ```latex
 $$\bbox[8px, border: 2px solid red] {}$$
 ```
+
+#### elements notation
+```latex
+$$\ce{^{227}_{90}Th+}$$
+```
