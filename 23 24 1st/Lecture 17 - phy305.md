@@ -54,3 +54,7 @@ $$Si \longrightarrow 1\text{ day}$$
 Massive stars undergo all the stages of nuclear burning up to the production of elements in the 'iron group' with atomic mass number around $A = 56$ consisting of isotopes of $\text{Cr, Mn, Fe, Co and Ni}$
 
 At this stage , star's outer envelope has expanded to about 1000$R_\bigodot$ and it has as dense core radius $\sim 10^{4}\text{ km}$ with onion like structure. 
+
+![[Screenshot 2023-11-01 at 3.37.19 AM.png]]
+
+Remember outer layers of the core are still burning hydrogen. Looking inward, the core consist of concentric cells, composed, primarily of helium, carbon, oxygen, neon, silicon and iron, respectively
