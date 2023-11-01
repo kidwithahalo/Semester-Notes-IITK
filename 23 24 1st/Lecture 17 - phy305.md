@@ -114,7 +114,19 @@ Hence,
 $$r_{ns} = 2.3 \times 10^{9}\text{ cm} \frac{m_e}{m_{n}} \bigg(\frac{Z}{A}\bigg)^\frac{5}{3}\bigg(\frac{M}{M_{\bigodot}}\bigg)^{\frac{-1}{3}}$$
 $$ \approx 14 \text{ km} \bigg(\frac{M}{1.4 M_{\bigodot}}\bigg)^{-1/3}$$
 
-Here we have put $\frac{Z}{A} = 1$, and the reason being that the number 
+Here we have put $\frac{Z}{A} = 1$, and the reason being that the number of particles contributing to the degeneracy pressure is almost equal to the total number of nucleons. 
+
+##### <span  style = "color:SpringGreen">Some important points </span>
+* Radius of the neutron star is about 500 times smaller than the white dwarf $\Longrightarrow$ the mean density is about $10^8$ times higher than the white dwarf $\approx 10^{14} \text{ g cm}^{-3}$. This is similar to the density of nuclear matter. 
+
+In fact one can consider neutron star to be a nucleus of atomic mass number of $10^{57}$
+
+##### <span  style = "color:SpringGreen">Drawbacks</span>
+Our estimate of the radius for the neutron is only approximate ! Why ? 
+- Because we have neglected two effects in the formulation of our answers
+1. In the density range of neutron star, strong nuclear force comes into play which plays 
+
+
 
 
 
