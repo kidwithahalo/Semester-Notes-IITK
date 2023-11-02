@@ -4,7 +4,7 @@
 
 Book Name : 
 Date Started : 01-11-2023
-Date Finished : 
+Date Finished : 02-11-2023
 
 <hr>
 
@@ -64,6 +64,8 @@ Therefore the largest $\frac{\Delta r}{r}$, the more tidal distortion of the sha
 $$\Downarrow$$
 
 As long as the stars are not tidally locked (i.e synchronised and circularised, energy is continuously lost to the friction while the different part of each star are deformed during the orbit). Once the tidal locking is achieved, everything appears stationary in a reference frame rotating at a binary frequency and the system achieved its minimum energy. 
+
+![[Screenshot 2023-11-02 at 11.41.07 AM.png]]
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 18 - phy305.md",
+                "file": "Lecture 19 - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "34aa249072acf109",
+            "id": "8cf7c66768c0d07a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 18 - phy305.md",
+                "file": "Lecture 19 - phy305.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 18 - phy305.md",
+                "file": "Lecture 19 - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 18 - phy305.md",
+                "file": "Lecture 19 - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 18 - phy305.md"
+                "file": "Lecture 19 - phy305.md"
               }
             }
           },
@@ -225,11 +225,13 @@
       }
     ]
   },
-  "active": "34aa249072acf109",
+  "active": "8cf7c66768c0d07a",
   "lastOpenFiles": [
     "ObsidianTEMPLATES/Shortcuts.md",
-    "Lecture 18 - phy305.md",
+    "Lecture 19 - phy305.md",
     "PHY305/main - phy305.md",
+    "Lecture 18 - phy305.md",
+    "Screenshot 2023-11-02 at 11.41.07 AM.png",
     "Lecture 17 - phy305.md",
     "Screenshot 2023-11-01 at 3.39.10 AM.png",
     "Screenshot 2023-11-01 at 3.37.19 AM.png",
@@ -241,7 +243,6 @@
     "Screenshot 2023-10-30 at 11.55.31 AM.png",
     "Screenshot 2023-10-30 at 11.18.06 AM.png",
     "Screenshot 2023-10-30 at 11.16.10 AM.png",
-    "Screenshot 2023-10-30 at 11.03.58 AM.png",
     "Lecture 14 - phy305.md",
     "Lecture 15 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
@@ -262,7 +263,6 @@
     "ESO213/Lecture 14 - 213.md",
     "ESO213/Lecture 15 - 213.md",
     "ESO213/Lecture 17 - 213.md",
-    "ESO213/Lecture 20 - 213.md",
     "PHY305/attachment/Note 08-Sep-2023 3.pdf",
     "PHY305/attachment/Note 08-Sep-2023 2.pdf",
     "PHY305/attachment/Note 08-Sep-2023 1.pdf",
