@@ -4,7 +4,7 @@
 
 Book Name : 
 Date Started : 30-10-2023
-Date Finished : 
+Date Finished : 01-11-2023
 
 <hr>
 
@@ -124,10 +124,56 @@ In fact one can consider neutron star to be a nucleus of atomic mass number of $
 ##### <span  style = "color:SpringGreen">Drawbacks</span>
 Our estimate of the radius for the neutron is only approximate ! Why ? 
 - Because we have neglected two effects in the formulation of our answers
-1. In the density range of neutron star, strong nuclear force comes into play which plays 
+1. In the density range of neutron star, strong nuclear force comes into play which plays an important role in the equation of state apart from neutron  degeneracy pressure. 
+2. General relativistic treatment 
+	- Anyway similar to the white dwarf, we could calculate the maximum limits of mass of the star that can be supported by the neutron degeneracy pressure $\longrightarrow$
+	$$M_{ch} = 0.2 \bigg(\frac{Z}{A}\bigg)^{2} \bigg(\frac{hc}{Gm_{p}^2}\bigg)^{\frac{3}{2}}m_p$$
+
+For neutron star $\frac{Z}{A} = 1$ instead of $0.5$ and that gives a factor of $4$ higher than the white dwarf.
+
+Hence, $$M_{ch, NS} = 4 \times 1.4 M_{\bigodot} = 5.6 M_{\bigodot} $$
+
+Overcoming the shortcomings of this calculations, i.e. incorporating general relativistic effect  the estimated maximum mass is about $5 M_{\bigodot}$
+
+### <span  style = "color:AquaMarine">Supernova Explosions</span> 
+The fall of layers of matter that surrounded the core onto the surface of newly formed neutron star sets off a shock wave that propagates outward and blows off the outer shells of the star, in what is observed as a supernova explosion. 
+
+The details of how this occurs are yet to be understood. 
+In fact sophisticated numerical simulations of the collapse are presently still unable to reproduce the 'explosion' i.e. the ejection of the star's outer regions. 
+
+From measurements of the mass and velocity of ejecta in supernova remnants, A kinetic energy of about $3 \times 10^{51} \text{ erg}$ is imparted to the material flying out. 
+
+All together, $3 \times10^{49} \text{ erg}$ of energy can be observed from a typical supernova explosions over a period of order one month. 
+
+###### <span  style = "color:Orchid">Source of this huge energy</span>
+Primarily from the decay of radioactive elements synthesised during the last few moments before the collapse, during collapse and during the explosions. 
+
+Although, the luminous energy is only $1\%$ of the $\text{K.E}$ , it nevertheless makes a supernova an impressive event with mean luminosity of order
+$$L_{supernova} \sim \frac{3 \times10^{49}}{30d \times 24hr \times60m \times60s} = 10^{43} \text{ erg} = 3 \times10^{9}L_{\bigodot}$$
+which is comparable to the luminosity of entire galaxies of stars. 
 
 
+$$\Downarrow$$
 
+Now if we calculate the gravitational binding energy released in the collapse of the core to a neutron star, that would be 
+$$E_{gr} \sim \frac{GM^{2}}{r_{ns}} \approx 5 \times10^{53} \bigg(\frac{M}{1.4 M_{\bigodot}}\bigg)^{2} \bigg(\frac{r_{ns}}{10 \text{ km}}\bigg)^{-1}$$
+
+
+The Kinetic and radiative energy are small fractions of the total gravitational energy by $10^{-2}$ and $10^{-4}$ respectively. 
+
+The bulk of the energy released in the collapse carried away by neutrino - antineutrinos pairs. As the density is so high that photons cannot emerge from the stars, they undergo frequent photon - photon collisions. These produce electron positron pairs which form neutrino pairs. 
+$$ \gamma + \gamma \longrightarrow e^{+} + e^{-}\longrightarrow \nu_{e}+ \bar{\nu_{e}}\; , \nu_{\mu}+ \bar{\nu_{\mu}}+ \nu_{e}+ \bar{\nu_{e}}$$
+These neutrinos can pass through the star with few scatterings and can therefore drain almost all of the thermal energy. 
+
+A configuration of this result comes from superonova $1987A$ in the large Magellanic cloud, a satellite galaxy of our galaxy at a distance of $50 \text{ kpc}$ from earth. 
+
+##### <span  style = "color:SpringGreen">Gamma Ray Bursts (GRBs)</span>
+These explosions releases energy of the order of $10^{51} \text{ erg}$ over a period of just few seconds. 
+
+Still many things to understand about $\text{GRBs}$ but they are result of core-collapse of massive stars. The large energy outputs, as well as indirect evidence of the existence of highly relativistic bulk motions of material suggest that $\text{GRBs}$ involved the formation of Black Holes 
+
+> Interesting Facts
+> The material expelled by the mass outflows from giants and by both type $1-a$ and core collapse supernova is essentially only source of all heavy elements except Helium and some trace elements of next few lightest elements which were synthesised early in the history of the universe. All nucleosynthesis takes place inside stars during their  various evolution. 
 
 
 
