@@ -4,7 +4,7 @@
 
 Book Name : 
 Date Started : 02-11-2023
-Date Finished :  
+Date Finished :  02-11-2023
 
 <hr>
 
@@ -69,6 +69,56 @@ For blackhole accretors, it turns out to be $0.08$ from all general relativistic
 > The efficiency of the accretion disc is one order of magnitude  more than the nuclear reaction. 
 
 
-##### <span  style = "color:SpringGreen">Luminosity</span>
+##### <span  style = "color:SpringGreen">Luminosity and Temperature for a typical accretion disk in various situation</span>
+$$L = \frac{1}{2} \frac{GM \dot{M}}{r_{in}}$$
+
+For a cataclysmic variable , the accretor is a white dwarf with 
+mass $= 1 M_{\bigodot}$ and 
+accretion rate $= 10^{-9} M_{\bigodot} \text{ yr}^{-1}$
+$r_{in} =$ can be considered as the radius/surface of the white dwarf = $10^{4}\text{ km}$
+
+![[Screenshot 2023-11-02 at 3.14.22 PM.png]]
+
+At the inner disk, where the luminosity of the accretion disc is overpowering the white dwarf luminosity, the temperature would be 
+
+![[Screenshot 2023-11-02 at 3.16.31 PM.png]]
+
+$$\Downarrow$$
+> The thermal spectrum in this temp peaks in the far UV part. Which is different than the spectrum  of main sequence. 
 
 
+### <span  style = "color:AquaMarine">Accretion Rate & Eddington Luminosity </span>
+As it is clear from various discussion that properties of accretion disk depend on various parameter but most significantly $M, \dot{M}, r_{in}$. 
+$M \text{ and } r_{in}$ are limited to particular values by the properties of stars and stellar remnants. However, the accretion rate $\dot{M}$ cannot be assumed arbitrarily large. 
+
+To establish this, let us consider an electron at a radius $r$, in an ionised gas is taking part in flow towards the mass $M$. 
+
+The accretion flow produces luminosity per frequency interval = $L_{\nu}$ therefore we can estimate the photon density as given below
+$$\Longrightarrow L_{\nu} = 4 \pi r^{2}c\; h \nu\; n_{ph}$$
+or, 
+$$n_{ph} = \frac{L_{\nu}}{4\pi r^{2}c \;h \nu}$$
+
+The rate at which photon will undergo Thomson scattering with the electron is 
+$$R_{scat} = n_{ph} \sigma_{T}\; c$$
+where 
+$\sigma_{T}= \text{Thomson scattering cross section}$
+
+Each scattering even transfers a momentum (In average)
+$$p = \frac{h \nu}{c} \text{   to the electron}$$
+
+The rate of momentum transfer to the electron or force exerted to the electron by the radiation (photons) is then, 
+$$\frac{dp}{dt} = R_{scat} \times \frac{h \nu}{c} = \frac{L_{\nu}\sigma_{T}}{4\pi r^{2}c}$$
+
+Total radiative force on electron would be 
+$$\tag{integrated over all frequency}F_{rad} = \frac{L \sigma_{T}}{4 \pi r^{2}c}$$
+
+Now this is the force which will repel electron to the fall on the accreting source of luminosity, if there were no gravitational attraction. 
+
+The force will be much greater on protons than on electron. Since Coulomb attraction between electron and proton does not allow proton and electrons to be separated, the gravitational attraction that works on a proton effectively works on the neighbouring electrons. The attractive force on electron hence, 
+$$F_{grav} = \frac{GM\; m_p}{r^2}$$
+The accretion flow, and its resulting luminosity can proceed only if the radiative force is less than the gravitational force and does not halt the inward flow i.e. $F_{rad} < F_{grav}$ and equating two of them, we can estimate maximum luminosity powered by accretion
+$$L_{E } = \frac{4\pi GM\; m_{p}c}{\sigma_T}$$
+$$ = \frac{4 \pi \times6.7 \times10^{-8} \times3  \times10^{10} \times2 \times10^{33} \times1.7 \times10^{-24}}{6.7 \times10^{-25}} \frac{M}{M_{\bigodot}}$$
+$$= 1.3 \times 10^{38} \frac{M}{M_{\bigodot}} = 6.5 \times10^{4}L_{\bigodot} \bigg(\frac{M}{M_{\bigodot}}\bigg)$$
+
+This limiting luminosity is called ==Eddington Luminosity==

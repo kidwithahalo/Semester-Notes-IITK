@@ -20,6 +20,7 @@ Instructed by Prof. Gopal Hazra
 [[Lecture 17 - phy305]]
 [[Lecture 18 - phy305]]
 [[Lecture 19 - phy305]]
+[[Lecture 20 - phy305]]
 
 
 
