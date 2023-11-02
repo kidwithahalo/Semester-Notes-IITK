@@ -112,4 +112,5 @@ $$\rho_{J} = 10^{6}\text{ cm}^{-3} \text{ for 1M}_{\bigodot} \text{ gas cloud.}$
 Now this cloud is much larger than the actual density of the cloud and it remains stable against gravitational collapse. 
 
 $\bbox[22px, border: 5px solid red] {\text{THE COMPLETE PICTURE SO FAR}}$
-The collapse of a molecular cloud indeed starts at larger masses that more easily pass the Jeans 
+
+The collapse of a molecular cloud indeed starts at larger masses that more easily pass the Jeans criterion. As the collapse proceeds and the density increases, progressively smaller regions of the cloud reach the Jeans density for their mass and can start to collapse independently. This fragmentation into smaller and denser masses continues until the cluster of individual protostar has formed which eventually evolve into
