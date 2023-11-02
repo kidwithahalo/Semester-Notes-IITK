@@ -68,4 +68,48 @@ $\text{Gravitational energy} = |E_{gr}| = \frac{GM^2}{r}$
 Now, let us allow the gas to go through compression radially $'dr'$. This will change the gravitational energy (it will become more negative - more gravitationally bound) by 
 $$|d E_{gr}| = \frac{GM^2}{r^{2}}dr$$
 
-Meanwhile, 
+Meanwhile, the volume of the gas will also change by 
+$$dV = 4 \pi r^{2}dr$$
+This corresponding to thermal energy enhancement which can be written as 
+$$dE_{th} = PdV = 4 \pi r^{2} dr(nk_{B}T)$$
+$$= \frac{M}{\frac{4}{3}\pi r^{3}(\bar{m})}kT \; 4 \pi r^{2} dr$$
+$$= \frac{3M}{\bar{m}}kT \frac{dr}{r}$$
+
+As we studied inside the stars, the cloud will be unstable to gravitational collapse if the change in gravitational energy is greater than the thermal energy which provides the pressure support. 
+
+The condition of instability would be 
+$$|dE_{gr}| > dE_{th}$$
+or, 
+$$\frac{GM^{2}}{r^{2}}dr > \frac{3M}{\bar{m}}kT \; \frac{dr}{r}$$
+$$\tag{1} M > \frac{3kT}{G\bar{m}}r$$
+
+This gives the estimate of mass for a gas cloud of radius $r$ and the temperature $T$ for which the collapse will happen if the mass crosses the limit in above equation 1. 
+This equation is known as ==Jeans Mass==
+$$M_{J}= \frac{3kT}{G\bar{m}} r$$
+Similarly a gas cloud will collapse if the radius of cloud with M is smaller than
+$$r = \frac{G\bar{m}M}{3kT} = r_{J}$$
+This condition can also be stated as a condition on the density which must be larger than the Jeans Density. 
+$$\rho_{J}= \frac{M}{\frac{4}{3} \pi r_{J}^{3}} = \frac{3}{4 \pi M^{2}}\bigg(\frac{3kT}{G\bar{m}}\bigg)^3$$
+
+Let us now calculate some numbers of Jeans parameters to get an idea how large/small these values are. Let us start it with molecular gas of mass $M \sim 1000 M_{\bigodot}$ and $T \sim 20K$
+
+At these low temperature , most of the hydrogens are bound in the $H_2$ molecules $\Longrightarrow \bar{m} = 2m_H$. Therefore the Jeans density is 
+$$\rho_{J} = \frac{3 \times[3 \times1.4 \times10^{-16}\times20]^3}{4 \pi (1000 \times 2 \times10^{33})^{2}\times[6.7 \times10^{-8} \times 2 \times1.7 \times 10^{-24}]^3}$$
+$$= 3 \times10^{-24} \text{ g cm}^{-3}$$
+which gives a number density
+$$n_{J}(H_{2}) = \frac{\rho_{J}}{\bar{m}} = \frac{3 \times10^{-24}}{2 \times 1.7 \times 10^{-24}} \sim 1 \text{ cm}^{-3}$$
+
+Hence, we found that the typical Jeans density of molecular cloud is order of magnitude smaller than the observed density ($10^{2}- 10^{4} \text{ cm}^{-3}$)
+
+Therefore, according to our criterion that we have just formulated, our spherical cloud will be unstable and collapse. But the molecular clouds are observed for a very long time and they have been existing for a long time. To support their collapse, there will be some other kind of pressure. Currently it is believed that this molecular cloud are supported by pressure from turbulence and magnetic field. 
+
+If the molecular clouds are gravitationally stable then how would they collapse and form stars ? What is going on ? 
+
+Let us consider a one - solar mass dump of gas inside the big $1000 M_{\bigodot}$ gas cloud instead of considering full gas clouds with same temperature $T$.
+
+The Jeans density for this $1 M_{\bigodot}$ cloud will be $10^6$ times larger.
+$$\rho_{J} = 10^{6}\text{ cm}^{-3} \text{ for 1M}_{\bigodot} \text{ gas cloud.}$$
+Now this cloud is much larger than the actual density of the cloud and it remains stable against gravitational collapse. 
+
+$\bbox[22px, border: 5px solid red] {\text{THE COMPLETE PICTURE SO FAR}}$
+The collapse of a molecular cloud indeed starts at larger masses that more easily pass the Jeans 
