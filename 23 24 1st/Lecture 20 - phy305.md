@@ -4,7 +4,7 @@
 
 Book Name : 
 Date Started : 02-11-2023
-Date Finished : 
+Date Finished : 02-11-2023
 
 <hr>
 
@@ -113,4 +113,58 @@ Now this cloud is much larger than the actual density of the cloud and it remain
 
 $\bbox[22px, border: 5px solid red] {\text{THE COMPLETE PICTURE SO FAR}}$
 
-The collapse of a molecular cloud indeed starts at larger masses that more easily pass the Jeans criterion. As the collapse proceeds and the density increases, progressively smaller regions of the cloud reach the Jeans density for their mass and can start to collapse independently. This fragmentation into smaller and denser masses continues until the cluster of individual protostar has formed which eventually evolve into
+The collapse of a molecular cloud indeed starts at larger masses that more easily pass the Jeans criterion. As the collapse proceeds and the density increases, progressively smaller regions of the cloud reach the Jeans density for their mass and can start to collapse independently. This fragmentation into smaller and denser masses continues until the cluster of individual protostar has formed which eventually evolve into stars on the main sequence. 
+
+The Jean radius for a molecular cloud fragment of mass of order $1M_{\bigodot}$ which can eventually collapse to such protostar would be 
+$$r_{J}\sim 5 \times 10^{16} \text{ cm}$$
+
+#### <span  style = "color:Tomato">CLOUD COLLAPSE : AN IMPORTANT POINT</span>
+As we studied in the previous section, Jeans criterion provides a necessary condition for the onset of the collapse in a gas cloud, which involves the release of gravitational energy and can only proceed if there is an avenue for releasing this energy. 
+
+For example, if the gravitational energy is converted to the thermal energy and the temperature and pressure will rise, the Jeans Mass will rise and the collapse will stop. The contraction will then proceed slowly, at a pace determined by the rate at which thermal energy is radiated away. 
+
+However, if the gravitational energy is converted into some other non-pressure producing form, then the collapse of a cloud that passes the Jeans criterion can proceed on a free fall time. 
+
+Two such avenue for converting gravitational energy, which are important in the star formation regions are $-$ 
+1. Dissociation of $H_{2}$ which uses up $4.5 \text{ eV}$ per molecule
+2. Ionization of hydrogen which takes $13.6 \text{ eV}$ per atom
+
+Consider for example $1M_{\bigodot}$ clump/cloud discussed above. If the hydrogen dissociation and ionisation can take place, then once density has reached the jeans value  for a such a mass $1M_{\bigodot}$ of $\rho_{J} = 3 \times 10^{8} \text{ g cm}^{-3}$, the cloud can collapse on a free fall time scale. 
+$$\tau_{ff} = \bigg(\frac{3 \pi}{32 \;G \;\rho}\bigg)^{\frac{1}{2}} = \bigg(\frac{3\pi}{32 \times 6.7 \times10^{-8} \times3 \times10^{-18}}\bigg)^{\frac{1}{2}}$$
+$$ = 1.2 \times 10^{12} \text{ sec} = 40,000 \text{ years}$$
+
+The free fall collapse will stop once most of the hydrogen is first dissociated and then ionised because continued compression past that point will quickly raise the temperature and pressure. We can find the properties of new equilibrium from Virial theorem as we studied in stellar physics. 
+
+$$\Downarrow$$
+In the new Virial equilibrium, the thermal energy of the ionised  gas will be equal to $\frac{-1}{2} E_{grav}$. If we make an assumption that during the collapse gas does not radiate away any energy i.e. an adiabatic approximation then, the gravitational energy will be converted  in breaking up the molecules and the atoms. 
+
+Hence, 
+$$E_{grav} = - \bigg(\frac{M}{2m_{H}}4.5 \text{ eV} + \frac{M}{m_{H}}13.6 \text{ eV}\bigg)$$
+and 
+$$E_{th} = \frac{3}{2}NKT = \frac{3}{2} \frac{M}{0.5m_{H}} KT$$
+Therefore in the equilibrium, 
+$$\frac{3}{2} \frac{M}{0.5m_{H}} KT =  \frac{1}{2} \bigg(\frac{M}{2m_{H}}4.5 \text{ eV} + \frac{M}{m_{H}}13.6 \text{ eV}\bigg)$$
+
+Upon calculating ,the typical particle energy in the new equilibrium would be 
+$$\frac{3}{2}KT = \frac{1}{8}\bigg(4.5 \text{ eV} + \frac{1}{4}13.6 \text{ eV}\bigg)$$
+$$ = 4.0 \text{ eV}$$
+Now, corresponding temperature would be 
+$$T = \frac{2}{3} \frac{4 \text{ eV}}{kT}$$
+$$ = \frac{2}{3} \frac{4}{0.86 \times 10^{-4} \text{ eV} \text{ K}^{-1}} = 30,000 \text{ K}$$
+
+The radius of the new clump in this new equilibrium would be 
+$$\frac{1}{2} \frac{GM^{2}}{r} = \frac{3}{2} kT \frac{M}{0.5 m_{H}}$$
+or, 
+$$r = \frac{GMm_{H}}{6kT}$$
+$$r = \frac{6.7 \times10^{-8} \times2 \times 10^{33} \times1.7 \times 10^{-24}}{4 \times \left(4 \text{ eV} = \frac{2}{3}kT\right)\times 1.6 \times 10^{-12} \text{ erg}}$$
+$$ = 1.0 \times 10^{13} \text{ cm} = 0.7 \text{ AU}$$
+
+The dissociation and ionisation of hydrogen alone can consume enough energy to bring a solar mass protostar down to the dimension of order $100$ times that of a sun. 
+
+The adiabatic approximation can give upper limit of temp and radius of the protostar. But there are several ways when gas can radiate away energy. 
+
+From this new protostar/new equilibrium  the loss of thermal energy is controlled by the radiative efficiency and the opacity of the gas. 
+
+The protostar at the centre of accretion disk slowly grows mass by means of matter channeled into it by the disk and contracts the radius. 
+
+Calculations indicate that after $10^{7}- 10^{8} \text{ years}$ , the temperature of $10^{7}\text{ K}$ required for hydrogen ignition is achieved in the core of protostar and it becomes a star in the main sequence in the HR diagram. 
