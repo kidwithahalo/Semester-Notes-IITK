@@ -164,3 +164,7 @@ where $b$ is given by the constant in the electron degenerate pressure.
 
 $$\Downarrow$$
 In other words, the radius of a white dwarf decreases with increasing mass. An order of magnitude estimate of radius would be as given above in the screenshot. 
+
+
+
+$$P_{th} = n_{+}kT = \frac{\rho}{A m_{p}} kT = \frac{\rho}{4m_{p}}kT$$

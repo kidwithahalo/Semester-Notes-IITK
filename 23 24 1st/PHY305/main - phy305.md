@@ -46,3 +46,4 @@ All the layouts of the book notes are in the main file.
 + 1 parsec $= 2.1 \times 10^{5}\text{ AU} = 3.1 \times10^{18} \text{ cm} = 3.3 \text{ ly}$
 + $\text{1 light year (ly)} = 9.46 \times 10^{15} \text{ m}$
 + The number of seconds in the year $= \pi \times 10^{7}\text{ s}$
+
