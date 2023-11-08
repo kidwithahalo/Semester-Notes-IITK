@@ -51,7 +51,7 @@ $$\Downarrow$$
 
 This is an order of estimate from the stellar structure equation. 
 However, if we solve full stellar structure equations then the radius of white dwarf would be 
-$$r_{wd} = 2.3 \times 10^{9} em \Bigg(\frac{Z}{A}\Bigg)^{\frac{5}{3}} \Bigg(\frac{M}{M_{\bigodot}}\Bigg)^{\frac{-1}{3}}$$
+$$r_{wd} = 2.3 \times 10^{9} \text{cm} \Bigg(\frac{Z}{A}\Bigg)^{\frac{5}{3}} \Bigg(\frac{M}{M_{\bigodot}}\Bigg)^{\frac{-1}{3}}$$
 and for $\frac{Z}{A} = 0.5$ and $M = 1M_{\bigodot}$ , we get $r = 4000 \text{ km}$
 
 #### <span  style = "color:Tomato">The Chandrashekhar Mass</span>
