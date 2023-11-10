@@ -43,6 +43,8 @@ Talking about $\text{ISM}$ in star forming regions.
 #### <span  style = "color:Tomato">STAR FORMATION</span>
 Stars are seen to form in molecular clouds
 
+[Star Formation by the collapse of molecular cloud](https://youtu.be/YbdwTwB8jtc)
+
 > What are these molecular clouds  ? 
 > Molecular clouds are one component of the $\text{ISM}$ where the gas are in the molecular form. Basically they are agglomerations (randomly shaped) composed mainly of molecular hydrogen gas with typical mass of $10^{2}- 10^{5}M_{\bigodot}$, sizes of hundred of parsec and typical particle density of $10^{2}- 10^{4}\text{ cm}^{-3}$. 
 > 
