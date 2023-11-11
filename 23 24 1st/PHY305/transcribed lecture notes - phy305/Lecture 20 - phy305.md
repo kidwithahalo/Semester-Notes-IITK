@@ -143,7 +143,7 @@ In the new Virial equilibrium, the thermal energy of the ionised  gas will be eq
 Hence, 
 $$E_{grav} = - \bigg(\frac{M}{2m_{H}}4.5 \text{ eV} + \frac{M}{m_{H}}13.6 \text{ eV}\bigg)$$
 and 
-$$E_{th} = \frac{3}{2}NKT = \frac{3}{2} \frac{M}{0.5m_{H}} KT$$ dfgdf
+$$E_{th} = \frac{3}{2}NKT = \frac{3}{2} \frac{M}{0.5m_{H}} KT$$ 
 Therefore in the equilibrium, 
 $$\frac{3}{2} \frac{M}{0.5m_{H}} KT =  \frac{1}{2} \bigg(\frac{M}{2m_{H}}4.5 \text{ eV} + \frac{M}{m_{H}}13.6 \text{ eV}\bigg)$$
 
