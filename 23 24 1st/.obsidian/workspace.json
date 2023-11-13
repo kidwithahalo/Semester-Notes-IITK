@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/Lecture 27 - 213.md",
+                "file": "Lecture 28 - 213.md",
                 "mode": "preview",
                 "source": true
               }
@@ -31,13 +31,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/Lecture 27 - 213.md",
+                "file": "ESO213/main - eso213.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9844ef014f8845a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 28 - 213.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/Lecture 27 - 213.md",
+                "file": "Lecture 28 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/Lecture 27 - 213.md",
+                "file": "Lecture 28 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/Lecture 27 - 213.md"
+                "file": "Lecture 28 - 213.md"
               }
             }
           },
@@ -212,11 +225,13 @@
       }
     ]
   },
-  "active": "9a7ec6657bbe17ff",
+  "active": "c75d371476347267",
   "lastOpenFiles": [
-    "ObsidianTEMPLATES/Shortcuts.md",
-    "ESO213/Lecture 27 - 213.md",
     "ESO213/main - eso213.md",
+    "ESO213/Lecture 27 - 213.md",
+    "Lecture 28 - 213.md",
+    "ObsidianTEMPLATES/Shortcuts.md",
+    "Screenshot 2023-11-13 at 2.58.01 PM.png",
     "ESO213/Lecture 26 - 213.md",
     "ESO213/Lecture 25 - 213.md",
     "ESO213/Lecture 24 - 213.md",
@@ -240,7 +255,6 @@
     "PHY305/attachment/Screenshot 2023-10-17 at 5.04.28 PM.png",
     "PHY305/attachment/Screenshot 2023-10-17 at 4.56.35 PM.png",
     "PHY305/attachment/Screenshot 2023-10-17 at 4.55.28 PM.png",
-    "PHY305/attachment/Screenshot 2023-10-17 at 4.52.28 PM.png",
     "PHY305/Lecture 14 - phy305.md",
     "PHY305/Lecture 20 - phy305.md",
     "For ankit's post.md",
@@ -249,7 +263,6 @@
     "PHY305/Lecture 18 - phy305.md",
     "PHY305/Lecture 17 - phy305.md",
     "PHY305/Lecture 16 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
     "PHY305/attachment/Note 08-Sep-2023 3.pdf",
     "PHY305/attachment/Note 08-Sep-2023 2.pdf",
     "PHY305/attachment/Note 08-Sep-2023 1.pdf",
