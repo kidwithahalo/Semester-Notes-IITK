@@ -49,4 +49,4 @@ graph LR
 
 $$\Downarrow$$
 
-1. The Cordilleran ice sheet
+1. The Cordilleran ice sheet repeatedly advanced to block 

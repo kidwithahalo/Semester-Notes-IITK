@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/main - eso213.md",
+                "file": "Lecture 30 - 213.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/main - eso213.md",
+                "file": "Lecture 30 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/main - eso213.md",
+                "file": "Lecture 30 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/main - eso213.md"
+                "file": "Lecture 30 - 213.md"
               }
             }
           },
@@ -224,10 +224,10 @@
       }
     ]
   },
-  "active": "e710499c32f81b8d",
+  "active": "a63a5f2abf364ce3",
   "lastOpenFiles": [
-    "Lecture 30 - 213.md",
     "ESO213/main - eso213.md",
+    "Lecture 30 - 213.md",
     "ObsidianTEMPLATES/Shortcuts.md",
     "ESO213/Lecture 29 - 213.md",
     "ESO213/Lecture 28 - 213.md",
