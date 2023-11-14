@@ -20,7 +20,7 @@ Date Finished :
 
 <hr>
 
-### <span  style = "color:Coral">Chapters Section </span>
+### <span  style = "color:Coral">Minor points to remember </span>
 + 
 
 <hr>
