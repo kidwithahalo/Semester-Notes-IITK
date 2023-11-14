@@ -50,3 +50,10 @@ graph LR
 $$\Downarrow$$
 
 1. The Cordilleran ice sheet repeatedly advanced to block 
+
+
+
+The virial theorem for mass of a galaxy is 
+$M = \frac{5}{3} v^{2} \frac{R}{G}$. 
+
+In terms of observed Doppler shifts, the virial mass is $M = 5 vr^{2} \frac{R}{G}$
