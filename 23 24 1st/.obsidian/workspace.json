@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 30 - 213.md",
+                "file": "Lecture 31 - 213.md",
                 "mode": "preview",
                 "source": true
               }
@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "a63a5f2abf364ce3",
+            "id": "dcedc14016f2ceb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 30 - 213.md",
+                "file": "Lecture 31 - 213.md",
                 "mode": "source",
                 "source": true
               }
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "998bed176cb0df03",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 30 - 213.md",
+                "file": "Lecture 31 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 30 - 213.md",
+                "file": "Lecture 31 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 30 - 213.md"
+                "file": "Lecture 31 - 213.md"
               }
             }
           },
@@ -224,11 +225,12 @@
       }
     ]
   },
-  "active": "a63a5f2abf364ce3",
+  "active": "dcedc14016f2ceb4",
   "lastOpenFiles": [
+    "ObsidianTEMPLATES/Shortcuts.md",
+    "Lecture 31 - 213.md",
     "ESO213/main - eso213.md",
     "Lecture 30 - 213.md",
-    "ObsidianTEMPLATES/Shortcuts.md",
     "ESO213/Lecture 29 - 213.md",
     "ESO213/Lecture 28 - 213.md",
     "ESO213/Lecture 27 - 213.md",
@@ -261,7 +263,6 @@
     "For ankit's post.md",
     "PHY305/Lecture 15 - phy305.md",
     "PHY305/Lecture 19 - phy305.md",
-    "PHY305/Lecture 18 - phy305.md",
     "PHY305/attachment/Note 08-Sep-2023 3.pdf",
     "PHY305/attachment/Note 08-Sep-2023 2.pdf",
     "PHY305/attachment/Note 08-Sep-2023 1.pdf",

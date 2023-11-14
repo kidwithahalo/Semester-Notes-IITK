@@ -35,4 +35,5 @@ Instructor: Prof. Deepak Dhingra
 28. [[Lecture 28 - 213]]
 29. [[Lecture 29 - 213]]
 30. [[Lecture 30 - 213]]
+31. [[Lecture 31 - 213]]
 

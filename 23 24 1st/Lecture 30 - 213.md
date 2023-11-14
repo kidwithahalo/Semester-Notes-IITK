@@ -4,7 +4,7 @@
 
 Book Name : 
 Date Started : 13-11-2023
-Date Finished : 
+Date Finished : 14-11-2023
 
 <hr>
 
@@ -16,6 +16,7 @@ Date Finished :
 
 ### <span  style = "color:dodgerblue">Questions to track </span>
 + Drainage network on Titan
++ What implications do the mineral dust have on temperature of atmosphere ? 
 
 
 <hr>
@@ -49,11 +50,32 @@ graph LR
 
 $$\Downarrow$$
 
-1. The Cordilleran ice sheet repeatedly advanced to block 
+1. The Cordilleran ice sheet repeatedly advanced to block the Clark Fork River
+2. Behind the ice dam, water from the Clark Fork gathered, forming glacial  Lake Missoula
+3. Each time the ice dam broke, a torrent of water with 10 times the combined flow of all the world's river barreled through the Spokane River valley.
+4. The rushing floodwaters traveled southwest across the Columbian Basin, scouring the bedrock. 
+5. Floodwaters converged into the Columbia River Gorge and eventually emptied into the Pacific. 
+
+$$\Downarrow$$
+$$\text{Ice age floods carved out channeled scablands}$$
+
+```mermaid
+graph TD
+    A[Repeated ice dam failures led to several cycles of flooding which deposited enormous <br> pile of sediments ] --> B[The nature of sediments depends on the source <br> transportation environment ]
+    B --> C[The relatively fine scale deposits highlighted in the image indicate relatively <br> calm depositional environment which allowed fine scale sediment to deposit]
+
+```
 
 
+<br> 
 
-The virial theorem for mass of a galaxy is 
-$M = \frac{5}{3} v^{2} \frac{R}{G}$. 
+#### <span  style = "color:Tomato">Wind as a carrier of Dust</span>
+1. Planet's radiation budget  $\Longrightarrow$ incoming and outgoing radiation
+2. Dust activity 
+	- Periodicity
+	- Geographic scale
+3. Dust may impacts in multiple ways 
+	- Opacity of the atmosphere impact navigation
+	- Important nutrient for life on land and in ocean
+	- Serve as nuclei for cloud formation
 
-In terms of observed Doppler shifts, the virial mass is $M = 5 vr^{2} \frac{R}{G}$
