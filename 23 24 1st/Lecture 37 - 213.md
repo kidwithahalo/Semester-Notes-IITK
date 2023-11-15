@@ -4,7 +4,7 @@
 
 Book Name : 
 Date Started : 16-11-2023
-Date Finished : 
+Date Finished : 16-11-2023
 
 <hr>
 
@@ -76,3 +76,8 @@ Remedial Measures to our Sand Dunes
 </div>
 
 [glacial till article](https://sciencing.com/glacial-till-6901178.html)  $\leftarrow \rightarrow$  [Glacial Erraticas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmammothmemory.net%2Fgeography%2Fgeography-vocabulary%2Fglacial-landscapes%2Ferratics.html&psig=AOvVaw1t49whcsgwrVnQjteQzIMY&ust=1700163058750000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDUoIvfxoIDFQAAAAAdAAAAABAE)
+
+
+
+
+![[Connecting the dots .png]]
