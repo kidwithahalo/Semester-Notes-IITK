@@ -29,9 +29,11 @@
             "id": "9a7ec6657bbe17ff",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Connecting the dots .png"
+                "file": "ESO213/Lecture 30 - 213.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connecting the dots .png",
+                "file": "ESO213/Lecture 30 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connecting the dots .png",
+                "file": "ESO213/Lecture 30 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connecting the dots .png"
+                "file": "ESO213/Lecture 30 - 213.md"
               }
             }
           },
@@ -211,20 +213,20 @@
   },
   "active": "e710499c32f81b8d",
   "lastOpenFiles": [
+    "Connecting the dots .png",
+    "2023-11-16.md",
     "ESO213/main - eso213.md",
     "Lecture 37 - 213.md",
-    "2023-11-16.md",
-    "Connecting the dots .png",
     "ObsidianTEMPLATES/Shortcuts.md",
     "Lecture 36 - 213.md",
     "ESO213/Screenshot 2023-11-16 at 12.21.32 AM.png",
     "ESO213/Screenshot 2023-11-16 at 12.14.57 AM.png",
-    "Lecture 30 - 213.md",
-    "Lecture 35 - 213.md",
-    "Lecture 34 - 213.md",
-    "Lecture 32 - 213.md",
-    "Lecture 31 - 213.md",
-    "Lecture 33 - 213.md",
+    "ESO213/Lecture 30 - 213.md",
+    "ESO213/Lecture 35 - 213.md",
+    "ESO213/Lecture 34 - 213.md",
+    "ESO213/Lecture 32 - 213.md",
+    "ESO213/Lecture 31 - 213.md",
+    "ESO213/Lecture 33 - 213.md",
     "ESO213/Screenshot 2023-11-15 at 7.46.07 PM.png",
     "ObsidianTEMPLATES/Templates/IITK template.md",
     "ESO213/Lecture 29 - 213.md",
@@ -241,7 +243,6 @@
     "PHY305/transcribed lecture notes - phy305/Lecture 20 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 19 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 18 - phy305.md",
-    "PHY305/transcribed lecture notes - phy305/Lecture 17 - phy305.md",
     "PHY305/attachment/Screenshot 2023-10-30 at 10.58.10 AM.png",
     "ESO213/Screenshot 2023-09-18 at 5.34.00 AM.png",
     "PHY305/attachment/Screenshot 2023-10-17 at 5.26.45 PM.png",
