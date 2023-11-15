@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "7984456eeff2e97e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9a7ec6657bbe17ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESO213/Lecture 30 - 213.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "998bed176cb0df03",
