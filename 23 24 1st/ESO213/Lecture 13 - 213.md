@@ -35,6 +35,41 @@ Date Finished : 05-09-2023
 </center>
 </figure>
 
+In other words , 
+$$\bbox[8px, border: 2px solid red] {\text{Isometric or Cubic}}$$
+$$a = b = c $$
+$$\alpha= \beta = \gamma = 90 \degree$$
+$$\Downarrow$$
+
+$$\bbox[8px, border: 2px solid red] {\text{Tetragonal}}$$
+$$a = b \neq c $$
+$$\alpha= \beta = \gamma = 90 \degree$$
+$$\Downarrow$$
+
+$$\bbox[8px, border: 2px solid red] {\text{Orthrhombic}}$$
+$$a \neq b \neq c $$
+$$\alpha= \beta = \gamma = 90 \degree$$
+$$\Downarrow$$
+
+$$\bbox[8px, border: 2px solid red] {\text{Rhombohedral}}$$
+$$a = b = c $$
+$$\alpha= \beta = \gamma \neq 90 \degree$$
+$$\Downarrow$$
+
+$$\bbox[8px, border: 2px solid red] {\text{Hexagonal}}$$
+$$a = b \neq c $$
+$$\alpha= \beta = 90 \degree$$
+$$\gamma = 120 \degree$$
+$$\Downarrow$$
+
+$$\bbox[8px, border: 2px solid red] {\text{Monoclinic}}$$
+$$a \neq b \neq c $$
+$$\alpha= \gamma = 90 \degree \neq \beta$$
+$$\Downarrow$$
+
+$$\bbox[8px, border: 2px solid red] {\text{Triclinic}}$$
+$$a \neq b \neq c $$
+$$\alpha \neq \beta \neq \gamma = 90 \degree$$
 
 
 #### <span  style = "color:Tomato">Next topic is Symmetry</span>
