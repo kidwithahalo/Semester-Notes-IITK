@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/Lecture 30 - 213.md",
+                "file": "ESO213/main - eso213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/Lecture 30 - 213.md",
+                "file": "ESO213/main - eso213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/Lecture 30 - 213.md"
+                "file": "ESO213/main - eso213.md"
               }
             }
           },
@@ -194,17 +194,17 @@
       }
     ]
   },
-  "active": "e710499c32f81b8d",
+  "active": "c75d371476347267",
   "lastOpenFiles": [
+    "ESO213/Lecture 37 - 213.md",
+    "ESO213/Lecture 30 - 213.md",
     "ESO213/Connecting the dots .png",
     "2023-11-16.md",
     "ESO213/main - eso213.md",
-    "ESO213/Lecture 37 - 213.md",
     "ObsidianTEMPLATES/Shortcuts.md",
     "ESO213/Lecture 36 - 213.md",
     "ESO213/Screenshot 2023-11-16 at 12.21.32 AM.png",
     "ESO213/Screenshot 2023-11-16 at 12.14.57 AM.png",
-    "ESO213/Lecture 30 - 213.md",
     "ESO213/Lecture 35 - 213.md",
     "ESO213/Lecture 34 - 213.md",
     "ESO213/Lecture 32 - 213.md",
