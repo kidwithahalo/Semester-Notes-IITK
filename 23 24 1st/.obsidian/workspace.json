@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/Lecture 5 - 213.md",
+                "file": "ESO213/Lecture 7 - 213.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/Lecture 5 - 213.md",
+                "file": "ESO213/Lecture 7 - 213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/Lecture 5 - 213.md",
+                "file": "ESO213/Lecture 7 - 213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/Lecture 5 - 213.md"
+                "file": "ESO213/Lecture 7 - 213.md"
               }
             }
           },
@@ -197,6 +197,8 @@
   "active": "c75d371476347267",
   "lastOpenFiles": [
     "ESO213/main - eso213.md",
+    "ESO213/Lecture 6 - 213.md",
+    "ESO213/Lecture 5 - 213.md",
     "ESO213/Lecture 4 - 213.md",
     "ESO213/Lecture 3 - 213.md",
     "ESO213/Lecture 2 - 213.md",
@@ -225,8 +227,6 @@
     "ESO213/Lecture 24 - 213.md",
     "ESO213/Lecture 23 - 213.md",
     "ESO213/Lecture 22 - 213.md",
-    "ESO213/Lecture 21 - 213.md",
-    "PHY305/main - phy305.md",
     "PHY305/attachment/Screenshot 2023-10-30 at 10.58.10 AM.png",
     "ESO213/Screenshot 2023-09-18 at 5.34.00 AM.png",
     "PHY305/attachment/Screenshot 2023-10-17 at 5.26.45 PM.png",
