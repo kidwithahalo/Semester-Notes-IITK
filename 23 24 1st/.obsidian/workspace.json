@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO213/Lecture 35 - 213.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO213/Lecture 35 - 213.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESO213/Lecture 35 - 213.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESO213/Lecture 35 - 213.md"
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md"
               }
             }
           },
@@ -196,10 +196,12 @@
   },
   "active": "9ea4ad57ec441482",
   "lastOpenFiles": [
+    "PHY305/main - phy305.md",
+    "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305.md",
+    "ESO213/Lecture 35 - 213.md",
     "ESO213/main - eso213.md",
     "ESO213/Lecture 34 - 213.md",
     "ESO213/Lecture 33 - 213.md",
-    "ESO213/Lecture 35 - 213.md",
     "ESO213/Lecture 32 - 213.md",
     "ESO213/Lecture 31 - 213.md",
     "ESO213/Lecture 30 - 213.md",
@@ -220,8 +222,6 @@
     "ESO213/Lecture 15 - 213.md",
     "ESO213/Lecture 14 - 213.md",
     "ESO213/Lecture 13 - 213.md",
-    "ObsidianTEMPLATES/Shortcuts.md",
-    "ESO213/Lecture 11 - 213.md",
     "ESO213/Connecting the dots .png",
     "ESO213/Screenshot 2023-11-16 at 12.21.32 AM.png",
     "ESO213/Screenshot 2023-11-16 at 12.14.57 AM.png",
