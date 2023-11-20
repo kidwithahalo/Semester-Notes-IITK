@@ -20,3 +20,24 @@ Solar
 ---
 ---
 
+$$\frac{dP}{dr} = \frac{-GM(r)}{r^{2}}\rho (r)$$
+
+$$E_{gr} = - \int_{0}^{R*} \frac{GM(r)dM(r)}{r}$$
+
+
+<br> 
+
+$$\int_{0}^{R*} 4 \pi r^{3} \frac{dP}{dr} dr = {P(r) 4 \pi r^{3}}\bigg |_{0}^{R*} - 3 \; \int_{0}^{R*} {4 \pi r^{2} \rho(r) dr}$$
+
+$$- \frac{3 \bar{P}}{V} = E_{gr}$$
+$$\Downarrow$$
+$$\bar{P} = \frac{-1}{3} \frac{E_{grav}}{V}$$
+
+
+$$E_{th} = \frac{3}{2}NKT$$
+$$P = \frac{2}{3} \; \frac{E_{th}}{V}$$
+
+<br>
+
+$$\bar{P}V = \frac{2}{3}E_{\text{th}}^{\text{tot}}$$
+$$E_{\text{th}} = \frac{-E_{\text{grav}}}{2}$$
