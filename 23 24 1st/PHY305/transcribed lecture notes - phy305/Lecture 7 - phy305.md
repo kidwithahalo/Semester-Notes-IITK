@@ -59,4 +59,5 @@ $$dM = 4 \pi r^{2}\; \rho(r) dr$$
 
 <br>
 
-$$P_{g}= \frac{\rho}{\bar{m}}KT = \frac{\rho KT}{2m_H}\bigg({1 + 3\text{X} + 0.5\text{Y}}\bigg)$$
+$$\mu_{m} = \frac{m_{1}m_2}{m_{1}+ m_2
+}$$
