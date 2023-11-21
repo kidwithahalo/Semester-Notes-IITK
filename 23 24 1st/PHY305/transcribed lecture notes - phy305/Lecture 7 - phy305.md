@@ -41,3 +41,18 @@ $$P = \frac{2}{3} \; \frac{E_{th}}{V}$$
 
 $$\bar{P}V = \frac{2}{3}E_{\text{th}}^{\text{tot}}$$
 $$E_{\text{th}} = \frac{-E_{\text{grav}}}{2}$$
+
+<br>
+
+$$E_{\text{total}} = E_{\text{gr}} + E_{\text{th}} = - \frac{E_{\text{gr}}}{2} + E_{\text{gr}} = \frac{E_{\text{gr}}}{2} \Longleftarrow -E_{\text{th}}^{\text{total}}$$
+
+
+<br>
+
+$$\frac{3}{2}NKT_{virial} = - \frac{E_{\text{gr}}}{2} = \frac{1}{2} \frac{GM_{\bigodot}^2}{R_{\bigodot}}\Longrightarrow{\frac{1}{2} \frac{GM_{\bigodot}}{R_{\bigodot}}}N\bar{m}$$
+
+
+$$\bar{m} =\frac{ m_{e} + m_{p}}{2} = \frac{m_{H}}{2}$$
+
+
+$$dM = 4 \pi r^{2}\; \rho(r) dr$$
