@@ -59,4 +59,4 @@ $$dM = 4 \pi r^{2}\; \rho(r) dr$$
 
 <br>
 
-$$\tau_{\text{KH}} = \frac{\frac{1}{2} |E_{\text{gr}}|}{L_{\bigodot}}$$
+$$P_{g}= \frac{\rho}{\bar{m}}KT = \frac{\rho KT}{2m_H}\bigg({1 + 3\text{X} + 0.5\text{Y}}\bigg)$$
