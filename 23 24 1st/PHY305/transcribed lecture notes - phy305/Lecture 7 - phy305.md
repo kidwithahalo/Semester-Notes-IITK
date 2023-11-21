@@ -59,4 +59,4 @@ $$dM = 4 \pi r^{2}\; \rho(r) dr$$
 
 <br>
 
-$$ \text{Total time = time of individual step ($D = \sqrt{N}l$)} \times \text{total number of step ($l/c$)}$$
+$$\tau_{\text{KH}} = \frac{\frac{1}{2} |E_{\text{gr}}|}{L_{\bigodot}}$$
