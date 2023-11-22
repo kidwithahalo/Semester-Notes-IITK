@@ -27,6 +27,11 @@ $$T_\text{quantum} =  \frac{z_{1}z_{2} e^{2}}{6 \pi \epsilon_{0} \kappa \lambda}
 
 <br>
 
+$$\alpha = \frac{e^{2}}{\hbar c} = \frac{1}{137}$$
+$$\alpha \text{ = fine structure constant}$$
+$$E_{G}= \frac{\Big( {\pi \alpha \; z_{1}z_{2}} \Big)^{2} 2 \mu c^2}{4 \pi \epsilon_{0}}$$
+$$g(E) = \text{e}^{- \sqrt{\frac{E_{G}}{E}}}$$
+
 <br>
 
 $$\text{e}^{-2\; \beta \; r}$$
