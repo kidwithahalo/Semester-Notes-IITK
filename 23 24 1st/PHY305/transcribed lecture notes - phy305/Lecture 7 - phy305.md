@@ -20,3 +20,15 @@ Solar
 ---
 ---
 
+$$\frac{1}{4 \pi \epsilon_{0}} \frac{z_{1}z_{2} e^{2}}\lambda = \frac{p^{2}}{2 \mu_{m}}$$
+$$\frac{\big(\frac{h}{\lambda}\big)^{2}}{2 \mu_{m}} =   \frac{1}{4 \pi \epsilon_{0}} \frac{z_{1}z_{2} e^{2}}\lambda$$
+$$\lambda = \frac{h^{2}2\mu_{m}}{4 \pi \epsilon_{0} \times z_{1}z_{2}e^2}$$
+$$T_\text{quantum} =  \frac{z_{1}z_{2} e^{2}}{6 \pi \epsilon_{0} \kappa \lambda} = 10^{7}\text{ K}$$
+
+<br>
+
+<br>
+
+$$\text{e}^{-2\; \beta \; r}$$
+$$ \approx \text{e}^{-2 \; \beta \Big({\frac{z_{1}z_{2} e^{2}}{4 \pi \epsilon_{0} E}} \Big)}$$
+$$\bigg[{\beta = \sqrt{\frac{2 \mu_{m} (V - E)}{\hbar ^2}}} \bigg]$$
