@@ -130,7 +130,7 @@ where $n_{e} = \frac{8\pi}{3h^{3}} {p_f}^3$
 
 $$\Downarrow$$
 Further , the electron degeneracy pressure is obtained as 
-$$\tag{Degeneracy pressure}P_{e}= \Bigg( {\frac{3}{\pi}}\Bigg)\Bigg({\frac{h^2}{20 m_{e} {m_{p}}^{5/3}}} \Bigg)\Bigg({\frac{Z}{A}} \Bigg)^{\frac{5}{3}}\rho^{5/3}$$
+$$\tag{Degeneracy pressure}P_{e}= \Bigg( {\frac{3}{\pi}}\Bigg)^{3/2}\Bigg({\frac{h^2}{20 m_{e} {m_{p}}^{5/3}}} \Bigg)\Bigg({\frac{Z}{A}} \Bigg)^{\frac{5}{3}}\rho^{5/3}$$
 
 $\bbox[28px, border: 6px solid red] {\text{Feature }}$
 Electron pressure does not depend on the temperature . 

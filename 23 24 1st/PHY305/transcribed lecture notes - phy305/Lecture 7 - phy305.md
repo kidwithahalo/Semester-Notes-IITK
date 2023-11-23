@@ -34,6 +34,4 @@ $$g(E) = \text{e}^{- \sqrt{\frac{E_{G}}{E}}}$$
 
 <br>
 
-$$\text{e}^{-2\; \beta \; r}$$
-$$ \approx \text{e}^{-2 \; \beta \Big({\frac{z_{1}z_{2} e^{2}}{4 \pi \epsilon_{0} E}} \Big)}$$
-$$\bigg[{\beta = \sqrt{\frac{2 \mu_{m} (V - E)}{\hbar ^2}}} \bigg]$$
+$$\rho_\text{quan} = \frac{m_{p}}{\Big( {\frac{\lambda}{2}} \Big)^{2}}= \frac{m_{p} \times8 m_{p}(3mkT)^{3/2}}{h^3}$$
