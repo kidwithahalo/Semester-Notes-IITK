@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 17 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 19 - phy305.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 17 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 19 - phy305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 17 - phy305.md",
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 19 - phy305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHY305/transcribed lecture notes - phy305/Lecture 17 - phy305.md"
+                "file": "PHY305/transcribed lecture notes - phy305/Lecture 19 - phy305.md"
               }
             }
           },
@@ -196,6 +196,8 @@
   },
   "active": "13526bdebeade3c7",
   "lastOpenFiles": [
+    "PHY305/transcribed lecture notes - phy305/Lecture 18 - phy305.md",
+    "PHY305/transcribed lecture notes - phy305/Lecture 17 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 16 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 15 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 7 - phy305.md",
@@ -220,8 +222,6 @@
     "PHY305/transcribed lecture notes - phy305/Lecture 2 - phy305.md",
     "PHY305/transcribed lecture notes - phy305/Lecture 1 - phy305.md",
     "ESO213/Lecture 35 - 213.md",
-    "ESO213/Lecture 34 - 213.md",
-    "ESO213/Lecture 33 - 213.md",
     "ESO213/Connecting the dots .png",
     "ESO213/Screenshot 2023-11-16 at 12.21.32 AM.png",
     "ESO213/Screenshot 2023-11-16 at 12.14.57 AM.png",
