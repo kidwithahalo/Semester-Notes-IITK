@@ -174,5 +174,5 @@ Calculations indicate that after $10^{7}- 10^{8} \text{ years}$ , the temperatur
 
 <br>
 
-$$ L = 4 \pi r^{2} \sigma T_{\text{eff}}^2$$
+$$v_{\text{recession}} = H_{0}\; D$$
   
