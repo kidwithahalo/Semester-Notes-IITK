@@ -170,3 +170,9 @@ From this new protostar/new equilibrium  the loss of thermal energy is controlle
 The protostar at the centre of accretion disk slowly grows mass by means of matter channeled into it by the disk and contracts the radius. 
 
 Calculations indicate that after $10^{7}- 10^{8} \text{ years}$ , the temperature of $10^{7}\text{ K}$ required for hydrogen ignition is achieved in the core of protostar and it becomes a star in the main sequence in the HR diagram. 
+
+
+<br>
+
+$$ L = 4 \pi r^{2} \sigma T_{\text{eff}}^2$$
+  
