@@ -172,7 +172,5 @@ The protostar at the centre of accretion disk slowly grows mass by means of matt
 Calculations indicate that after $10^{7}- 10^{8} \text{ years}$ , the temperature of $10^{7}\text{ K}$ required for hydrogen ignition is achieved in the core of protostar and it becomes a star in the main sequence in the HR diagram. 
 
 
-<br>
 
-$$v_{\text{recession}} = H_{0}\; D$$
   
